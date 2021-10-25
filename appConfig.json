@@ -1,0 +1,142 @@
+{
+  "name": "ExperianciaDeDesenvolvimento",
+  "projectType": "AR",
+  "viewType": "ar",
+  "fileName": "ExperianciaDeDesenvolvimento",
+  "thingworxServer": "https://62805854cb2e0345.studio-trial.vuforia.io",
+  "viewTemplateFileName": "home-ar.json",
+  "state": {
+    "orientation": "portrait"
+  },
+  "targets": {
+    "phone": {
+      "components": [
+        {
+          "name": "HOME",
+          "fileName": "HOME",
+          "showInMainMenu": true,
+          "viewType": "mobile-2D",
+          "title": "HOME"
+        },
+        {
+          "name": "OPERAÇÃO DESMONTAGEM",
+          "fileName": "OPERA__O_DESMONTAGEM",
+          "showInMainMenu": true,
+          "viewType": "ar",
+          "title": "OPERAÇÃO DESMONTAGEM"
+        },
+        {
+          "name": "VÍDEO",
+          "fileName": "V_DEO",
+          "showInMainMenu": true,
+          "viewType": "ar",
+          "title": "VÍDEO"
+        },
+        {
+          "name": "MODELO DINÂMICO",
+          "fileName": "MODELO_DIN_MICO_1",
+          "showInMainMenu": true,
+          "viewType": "ar",
+          "title": "MODELO DINÂMICO"
+        },
+        {
+          "name": "TRANSLATE",
+          "fileName": "TRANSLATE",
+          "showInMainMenu": true,
+          "viewType": "ar",
+          "title": "TRANSLATE"
+        },
+        {
+          "name": "CRONÔMETRO",
+          "fileName": "CRON_METRO",
+          "showInMainMenu": true,
+          "viewType": "mobile-2D",
+          "title": "CRONÔMETRO"
+        },
+        {
+          "name": "SPINNER",
+          "fileName": "SPINNER",
+          "showInMainMenu": true,
+          "viewType": "mobile-2D",
+          "title": "SPINNER"
+        },
+        {
+          "name": "CSS",
+          "fileName": "CSS",
+          "showInMainMenu": true,
+          "viewType": "mobile-2D",
+          "title": "CSS"
+        },
+        {
+          "name": "ABRIR EXPERIÊNCIA",
+          "fileName": "ABRIR_EXPERI_NCIA",
+          "showInMainMenu": true,
+          "viewType": "mobile-2D",
+          "title": "ABRIR EXPERIÊNCIA"
+        },
+        {
+          "name": "DADOS IOT",
+          "fileName": "DADOS_IOT",
+          "showInMainMenu": true,
+          "viewType": "mobile-2D",
+          "title": "DADOS IOT"
+        },
+        {
+          "name": "CONGELAR TELA",
+          "fileName": "CONGELAR_TELA",
+          "showInMainMenu": true,
+          "viewType": "ar",
+          "title": "CONGELAR TELA"
+        },
+        {
+          "name": "SOMBRE OBJETO 3D",
+          "fileName": "SOMBRE_OBJETO_3D",
+          "showInMainMenu": true,
+          "viewType": "ar",
+          "title": "SOMBRE OBJETO 3D"
+        },
+        {
+          "name": "LISTA DE SEQUÊNCIA",
+          "fileName": "LISTA_DE_SEQU_NCIA",
+          "showInMainMenu": true,
+          "viewType": "ar",
+          "title": "LISTA DE SEQUÊNCIA"
+        }
+      ],
+      "images": []
+    },
+    "shared": {
+      "components": [
+        {
+          "name": "Data",
+          "fileName": "Data"
+        }
+      ],
+      "images": [],
+      "fragments": [],
+      "styles": [
+        {
+          "name": "App",
+          "fileName": "App",
+          "fileExt": "scss"
+        }
+      ]
+    }
+  },
+  "device": {
+    "name": "iphone_plus",
+    "width": "414",
+    "height": "736"
+  },
+  "mainNavigationMenuStyle": "leftSideMenu",
+  "resourceDirectory": "src/phone/resources",
+  "resourceRuntimeDir": "app/resources",
+  "fontRuntimeDir": "../fonts",
+  "fontDesigntimeDir": "../dist/fonts",
+  "theme": "twx-light",
+  "version": "1.55.2075",
+  "thumbnail": "Uploaded/operator_02.jpg",
+  "designedForOffline": false,
+  "allowSelfSignedCerts": true,
+  "description": "Experiência com exemplos de implementação."
+}

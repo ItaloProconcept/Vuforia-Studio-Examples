@@ -1,0 +1,175 @@
+{
+  "attributes": {
+    "twx-widget": "",
+    "widget-id": "view-1",
+    "widget-name": "view-1",
+    "is-widget-container": "true",
+    "viewtype": "mobile-2D"
+  },
+  "children": [
+    {
+      "name": "twx-container-content",
+      "children": [
+        {
+          "attributes": {
+            "twx-widget": "",
+            "widget-id": "header-1",
+            "widget-name": "header-1",
+            "is-widget-container": "true"
+          },
+          "name": "twx-view-header",
+          "children": [
+            {
+              "name": "twx-container-content",
+              "children": [
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "headerButtons-1",
+                    "widget-name": "headerButtons-1",
+                    "is-widget-container": "true",
+                    "align": "primary"
+                  },
+                  "name": "twx-header-buttons",
+                  "children": [
+                    {
+                      "name": "twx-container-content"
+                    }
+                  ]
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "headerTitle-1",
+                    "widget-name": "headerTitle-1",
+                    "is-widget-container": "true"
+                  },
+                  "name": "twx-header-title",
+                  "children": [
+                    {
+                      "name": "twx-container-content"
+                    }
+                  ]
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "headerButtons-2",
+                    "widget-name": "headerButtons-2",
+                    "is-widget-container": "true",
+                    "align": "secondary"
+                  },
+                  "name": "twx-header-buttons",
+                  "children": [
+                    {
+                      "name": "twx-container-content"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "attributes": {
+            "twx-widget": "",
+            "widget-id": "panel-1",
+            "widget-name": "panel-1",
+            "is-widget-container": "true"
+          },
+          "name": "twx-panel",
+          "children": [
+            {
+              "name": "twx-container-content",
+              "children": [
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "gridLayout-1",
+                    "widget-name": "gridLayout-1",
+                    "is-widget-container": "true"
+                  },
+                  "name": "twx-gridlayout",
+                  "children": [
+                    {
+                      "name": "twx-container-content",
+                      "children": [
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "row-1",
+                            "widget-name": "row-1",
+                            "is-widget-container": "true"
+                          },
+                          "name": "twx-row",
+                          "children": [
+                            {
+                              "name": "twx-container-content",
+                              "children": [
+                                {
+                                  "attributes": {
+                                    "twx-widget": "",
+                                    "widget-id": "column-1",
+                                    "widget-name": "column-1",
+                                    "is-widget-container": "true",
+                                    "flexdirection": "row",
+                                    "alignment": "center",
+                                    "fixedcolsize": "40px",
+                                    "padding": "5px"
+                                  },
+                                  "name": "twx-col",
+                                  "children": [
+                                    {
+                                      "name": "twx-container-content",
+                                      "children": [
+                                        {
+                                          "attributes": {
+                                            "twx-widget": "",
+                                            "widget-id": "button-1",
+                                            "widget-name": "button-1",
+                                            "text": "",
+                                            "class": "image-button image"
+                                          },
+                                          "name": "twx-button"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "attributes": {
+            "twx-widget": "",
+            "widget-id": "footer-1",
+            "widget-name": "footer-1",
+            "is-widget-container": "true"
+          },
+          "name": "twx-view-footer",
+          "children": [
+            {
+              "name": "twx-container-content"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "twx-fragment-parameters"
+    },
+    {
+      "name": "twx-view-data"
+    }
+  ],
+  "name": "twx-view"
+}

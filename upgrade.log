@@ -1,0 +1,1380 @@
+[2019-05-16T18:31:49.093Z] debug: [twx-studio:upgrade:POC_4_0] Begin upgrade of project POC_4_0
+[2019-05-16T18:31:49.095Z] info: [twx-studio:upgrade:POC_4_0] Upgrading project POC_4.0 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_4_0 from 1.37.1544 to 8.4.2.4361 (1.37.1544)
+[2019-05-16T18:31:49.115Z] debug: [twx-studio:upgrade:POC_4_0] Make sure there are not any stale files lying around
+[2019-05-16T18:31:49.116Z] debug: [twx-studio:upgrade:POC_4_0] Create .gitignore for project dir
+[2019-05-16T18:31:49.131Z] debug: [twx-studio:upgrade:POC_4_0] Copying /src/**/* to project, overwrite=false
+[2019-05-16T18:31:49.134Z] debug: [twx-studio:upgrade:POC_4_0] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-05-16T18:31:49.508Z] debug: [twx-studio:upgrade:POC_4_0] Copy of project files complete
+[2019-05-16T18:31:49.509Z] debug: [twx-studio:upgrade:POC_4_0] Updating version to  8.4.2.4361 (1.37.1544)
+[2019-05-16T18:31:49.509Z] debug: [twx-studio:upgrade:POC_4_0] onupgrade sucessful, now build the project
+[2019-05-16T18:31:49.509Z] debug: [twx-studio:upgrade:POC_4_0] BEGIN buildApp POC_4_0_1558031509509
+[2019-05-16T18:31:49.509Z] debug: [twx-studio:upgrade:POC_4_0] write settings
+[2019-05-16T18:31:49.516Z] debug: [twx-studio:upgrade:POC_4_0] copy runtime extensions
+[2019-05-16T18:31:52.601Z] debug: [twx-studio:upgrade:POC_4_0] packageThemeSet
+[2019-05-16T18:31:55.155Z] debug: [twx-studio:upgrade:POC_4_0] onBuild
+[2019-05-16T18:31:55.155Z] info: [twx-studio:upgrade:POC_4_0] Building ves-ar-extension app: POC_4.0
+[2019-05-16T18:31:55.456Z] debug: [twx-studio:upgrade:POC_4_0] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_4_0
+[2019-05-16T18:31:55.456Z] debug: [twx-studio:upgrade:POC_4_0] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-05-16T18:31:55.456Z] debug: [twx-studio:upgrade:POC_4_0] copySrc
+[2019-05-16T18:32:01.148Z] debug: [twx-studio:upgrade:POC_4_0] buildApp
+[2019-05-16T18:32:02.680Z] debug: [twx-studio:upgrade:POC_4_0] END buildApp POC_4_0_1558031509509
+[2019-05-16T18:32:02.681Z] debug: [twx-studio:upgrade:POC_4_0] Build succeeded.
+
+2019-05-16T20:35:18.977Z: Project "POC_4_0" saved as new project "POC_4_1"[2019-05-16T20:43:05.433Z] debug: [twx-studio:upgrade:POC_4_1] Begin upgrade of project POC_4_1
+[2019-05-16T20:43:05.434Z] info: [twx-studio:upgrade:POC_4_1] Upgrading project POC_4.1 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_4_1 from 1.37.1544 to 8.4.2.4361 (1.37.1544)
+[2019-05-16T20:43:05.438Z] debug: [twx-studio:upgrade:POC_4_1] Make sure there are not any stale files lying around
+[2019-05-16T20:43:05.438Z] debug: [twx-studio:upgrade:POC_4_1] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_4_1/src/phone/resources/Default/
+[2019-05-16T20:43:05.462Z] debug: [twx-studio:upgrade:POC_4_1] Create .gitignore for project dir
+[2019-05-16T20:43:05.468Z] debug: [twx-studio:upgrade:POC_4_1] Copying /src/**/* to project, overwrite=false
+[2019-05-16T20:43:05.470Z] debug: [twx-studio:upgrade:POC_4_1] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-05-16T20:43:05.985Z] debug: [twx-studio:upgrade:POC_4_1] Copy of project files complete
+[2019-05-16T20:43:05.985Z] debug: [twx-studio:upgrade:POC_4_1] Updating version to  8.4.2.4361 (1.37.1544)
+[2019-05-16T20:43:05.985Z] debug: [twx-studio:upgrade:POC_4_1] onupgrade sucessful, now build the project
+[2019-05-16T20:43:05.985Z] debug: [twx-studio:upgrade:POC_4_1] BEGIN buildApp POC_4_1_1558039385985
+[2019-05-16T20:43:05.985Z] debug: [twx-studio:upgrade:POC_4_1] write settings
+[2019-05-16T20:43:05.987Z] debug: [twx-studio:upgrade:POC_4_1] copy runtime extensions
+[2019-05-16T20:43:07.054Z] debug: [twx-studio:upgrade:POC_4_1] packageThemeSet
+[2019-05-16T20:43:08.531Z] debug: [twx-studio:upgrade:POC_4_1] onBuild
+[2019-05-16T20:43:08.531Z] info: [twx-studio:upgrade:POC_4_1] Building ves-ar-extension app: POC_4.1
+[2019-05-16T20:43:08.603Z] debug: [twx-studio:upgrade:POC_4_1] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_4_1
+[2019-05-16T20:43:08.607Z] debug: [twx-studio:upgrade:POC_4_1] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-05-16T20:43:08.607Z] debug: [twx-studio:upgrade:POC_4_1] copySrc
+[2019-05-16T20:43:10.282Z] debug: [twx-studio:upgrade:POC_4_1] buildApp
+[2019-05-16T20:43:11.171Z] debug: [twx-studio:upgrade:POC_4_1] END buildApp POC_4_1_1558039385985
+[2019-05-16T20:43:11.171Z] debug: [twx-studio:upgrade:POC_4_1] Build succeeded.
+
+2019-05-16T23:18:54.255Z: Project "POC_4_1" saved as new project "POC_4_2"[2019-05-16T23:19:21.214Z] debug: [twx-studio:upgrade:POC_4_2] Begin upgrade of project POC_4_2
+[2019-05-16T23:19:21.214Z] info: [twx-studio:upgrade:POC_4_2] Upgrading project POC_4.2 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_4_2 from 1.37.1544 to 8.4.2.4361 (1.37.1544)
+[2019-05-16T23:19:21.218Z] debug: [twx-studio:upgrade:POC_4_2] Make sure there are not any stale files lying around
+[2019-05-16T23:19:21.219Z] debug: [twx-studio:upgrade:POC_4_2] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_4_2/src/phone/resources/Default/
+[2019-05-16T23:19:21.228Z] debug: [twx-studio:upgrade:POC_4_2] Create .gitignore for project dir
+[2019-05-16T23:19:21.241Z] debug: [twx-studio:upgrade:POC_4_2] Copying /src/**/* to project, overwrite=false
+[2019-05-16T23:19:21.243Z] debug: [twx-studio:upgrade:POC_4_2] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-05-16T23:19:21.524Z] debug: [twx-studio:upgrade:POC_4_2] Copy of project files complete
+[2019-05-16T23:19:21.524Z] debug: [twx-studio:upgrade:POC_4_2] Updating version to  8.4.2.4361 (1.37.1544)
+[2019-05-16T23:19:21.524Z] debug: [twx-studio:upgrade:POC_4_2] onupgrade sucessful, now build the project
+[2019-05-16T23:19:21.525Z] debug: [twx-studio:upgrade:POC_4_2] BEGIN buildApp POC_4_2_1558048761524
+[2019-05-16T23:19:21.525Z] debug: [twx-studio:upgrade:POC_4_2] write settings
+[2019-05-16T23:19:21.527Z] debug: [twx-studio:upgrade:POC_4_2] copy runtime extensions
+[2019-05-16T23:19:22.517Z] debug: [twx-studio:upgrade:POC_4_2] packageThemeSet
+[2019-05-16T23:19:23.971Z] debug: [twx-studio:upgrade:POC_4_2] onBuild
+[2019-05-16T23:19:23.971Z] info: [twx-studio:upgrade:POC_4_2] Building ves-ar-extension app: POC_4.2
+[2019-05-16T23:19:24.058Z] debug: [twx-studio:upgrade:POC_4_2] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_4_2
+[2019-05-16T23:19:24.059Z] debug: [twx-studio:upgrade:POC_4_2] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-05-16T23:19:24.059Z] debug: [twx-studio:upgrade:POC_4_2] copySrc
+[2019-05-16T23:19:25.582Z] debug: [twx-studio:upgrade:POC_4_2] buildApp
+[2019-05-16T23:19:26.685Z] debug: [twx-studio:upgrade:POC_4_2] END buildApp POC_4_2_1558048761524
+[2019-05-16T23:19:26.685Z] debug: [twx-studio:upgrade:POC_4_2] Build succeeded.
+
+2019-05-17T18:58:31.571Z: Project "POC_4_2" saved as new project "POC_5_0"[2019-05-17T18:59:21.760Z] debug: [twx-studio:upgrade:POC_5_0] Begin upgrade of project POC_5_0
+[2019-05-17T18:59:21.773Z] info: [twx-studio:upgrade:POC_5_0] Upgrading project POC_5.0 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_5_0 from 1.37.1544 to 8.4.2.4361 (1.37.1544)
+[2019-05-17T18:59:22.092Z] debug: [twx-studio:upgrade:POC_5_0] Make sure there are not any stale files lying around
+[2019-05-17T18:59:22.092Z] debug: [twx-studio:upgrade:POC_5_0] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_5_0/src/phone/resources/Default/
+[2019-05-17T18:59:22.113Z] debug: [twx-studio:upgrade:POC_5_0] Create .gitignore for project dir
+[2019-05-17T18:59:22.118Z] debug: [twx-studio:upgrade:POC_5_0] Copying /src/**/* to project, overwrite=false
+[2019-05-17T18:59:22.120Z] debug: [twx-studio:upgrade:POC_5_0] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-05-17T18:59:22.434Z] debug: [twx-studio:upgrade:POC_5_0] Copy of project files complete
+[2019-05-17T18:59:22.434Z] debug: [twx-studio:upgrade:POC_5_0] Updating version to  8.4.2.4361 (1.37.1544)
+[2019-05-17T18:59:22.434Z] debug: [twx-studio:upgrade:POC_5_0] onupgrade sucessful, now build the project
+[2019-05-17T18:59:22.434Z] debug: [twx-studio:upgrade:POC_5_0] BEGIN buildApp POC_5_0_1558119562434
+[2019-05-17T18:59:22.434Z] debug: [twx-studio:upgrade:POC_5_0] write settings
+[2019-05-17T18:59:22.436Z] debug: [twx-studio:upgrade:POC_5_0] copy runtime extensions
+[2019-05-17T18:59:23.421Z] debug: [twx-studio:upgrade:POC_5_0] packageThemeSet
+[2019-05-17T18:59:24.853Z] debug: [twx-studio:upgrade:POC_5_0] onBuild
+[2019-05-17T18:59:24.853Z] info: [twx-studio:upgrade:POC_5_0] Building ves-ar-extension app: POC_5.0
+[2019-05-17T18:59:25.036Z] debug: [twx-studio:upgrade:POC_5_0] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_5_0
+[2019-05-17T18:59:25.036Z] debug: [twx-studio:upgrade:POC_5_0] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-05-17T18:59:25.037Z] debug: [twx-studio:upgrade:POC_5_0] copySrc
+[2019-05-17T18:59:26.827Z] debug: [twx-studio:upgrade:POC_5_0] buildApp
+[2019-05-17T18:59:28.145Z] debug: [twx-studio:upgrade:POC_5_0] END buildApp POC_5_0_1558119562434
+[2019-05-17T18:59:28.145Z] debug: [twx-studio:upgrade:POC_5_0] Build succeeded.
+[2019-05-19T12:10:27.902Z] debug: [twx-studio:upgrade:POC_5_0] Begin upgrade of project POC_5_0
+[2019-05-19T12:10:27.908Z] info: [twx-studio:upgrade:POC_5_0] Upgrading project POC_5_0 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_5_0 from 1.37.1544 to 8.4.3.4381 (1.38.1553)
+[2019-05-19T12:10:27.971Z] debug: [twx-studio:upgrade:POC_5_0] Make sure there are not any stale files lying around
+[2019-05-19T12:10:27.972Z] debug: [twx-studio:upgrade:POC_5_0] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_5_0/src/phone/resources/Default/
+[2019-05-19T12:10:27.989Z] debug: [twx-studio:upgrade:POC_5_0] Create .gitignore for project dir
+[2019-05-19T12:10:28.015Z] debug: [twx-studio:upgrade:POC_5_0] Copying /src/**/* to project, overwrite=false
+[2019-05-19T12:10:28.019Z] debug: [twx-studio:upgrade:POC_5_0] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-05-19T12:10:28.239Z] debug: [twx-studio:upgrade:POC_5_0] Copy of project files complete
+[2019-05-19T12:10:28.239Z] debug: [twx-studio:upgrade:POC_5_0] Updating version to  8.4.3.4381 (1.38.1553)
+[2019-05-19T12:10:28.239Z] debug: [twx-studio:upgrade:POC_5_0] onupgrade sucessful, now build the project
+[2019-05-19T12:10:28.240Z] debug: [twx-studio:upgrade:POC_5_0] BEGIN buildApp POC_5_0_1558267828240
+[2019-05-19T12:10:28.240Z] debug: [twx-studio:upgrade:POC_5_0] write settings
+[2019-05-19T12:10:28.246Z] debug: [twx-studio:upgrade:POC_5_0] copy runtime extensions
+[2019-05-19T12:10:29.172Z] debug: [twx-studio:upgrade:POC_5_0] packageThemeSet
+[2019-05-19T12:10:30.596Z] debug: [twx-studio:upgrade:POC_5_0] onBuild
+[2019-05-19T12:10:30.597Z] info: [twx-studio:upgrade:POC_5_0] Building ves-ar-extension app: POC_5_0
+[2019-05-19T12:10:30.883Z] debug: [twx-studio:upgrade:POC_5_0] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_5_0
+[2019-05-19T12:10:30.883Z] debug: [twx-studio:upgrade:POC_5_0] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-05-19T12:10:30.883Z] debug: [twx-studio:upgrade:POC_5_0] copySrc
+[2019-05-19T12:10:32.150Z] debug: [twx-studio:upgrade:POC_5_0] buildApp
+[2019-05-19T12:10:33.736Z] debug: [twx-studio:upgrade:POC_5_0] END buildApp POC_5_0_1558267828240
+[2019-05-19T12:10:33.736Z] debug: [twx-studio:upgrade:POC_5_0] Build succeeded.
+
+2019-05-19T23:06:08.805Z: Project "POC_5_0" saved as new project "POC_5_1"[2019-05-19T23:06:20.182Z] debug: [twx-studio:upgrade:POC_5_1] Begin upgrade of project POC_5_1
+[2019-05-19T23:06:20.187Z] info: [twx-studio:upgrade:POC_5_1] Upgrading project POC_5_1 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_5_1 from 1.38.1553 to 8.4.3.4381 (1.38.1553)
+[2019-05-19T23:06:20.547Z] debug: [twx-studio:upgrade:POC_5_1] Make sure there are not any stale files lying around
+[2019-05-19T23:06:20.547Z] debug: [twx-studio:upgrade:POC_5_1] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_5_1/src/phone/resources/Default/
+[2019-05-19T23:06:20.573Z] debug: [twx-studio:upgrade:POC_5_1] Create .gitignore for project dir
+[2019-05-19T23:06:20.577Z] debug: [twx-studio:upgrade:POC_5_1] Copying /src/**/* to project, overwrite=false
+[2019-05-19T23:06:20.579Z] debug: [twx-studio:upgrade:POC_5_1] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-05-19T23:06:20.895Z] debug: [twx-studio:upgrade:POC_5_1] Copy of project files complete
+[2019-05-19T23:06:20.896Z] debug: [twx-studio:upgrade:POC_5_1] Updating version to  8.4.3.4381 (1.38.1553)
+[2019-05-19T23:06:20.896Z] debug: [twx-studio:upgrade:POC_5_1] onupgrade sucessful, now build the project
+[2019-05-19T23:06:20.896Z] debug: [twx-studio:upgrade:POC_5_1] BEGIN buildApp POC_5_1_1558307180896
+[2019-05-19T23:06:20.896Z] debug: [twx-studio:upgrade:POC_5_1] write settings
+[2019-05-19T23:06:20.898Z] debug: [twx-studio:upgrade:POC_5_1] copy runtime extensions
+[2019-05-19T23:06:21.774Z] debug: [twx-studio:upgrade:POC_5_1] packageThemeSet
+[2019-05-19T23:06:23.213Z] debug: [twx-studio:upgrade:POC_5_1] onBuild
+[2019-05-19T23:06:23.213Z] info: [twx-studio:upgrade:POC_5_1] Building ves-ar-extension app: POC_5_1
+[2019-05-19T23:06:23.228Z] debug: [twx-studio:upgrade:POC_5_1] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_5_1
+[2019-05-19T23:06:23.228Z] debug: [twx-studio:upgrade:POC_5_1] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-05-19T23:06:23.228Z] debug: [twx-studio:upgrade:POC_5_1] copySrc
+[2019-05-19T23:06:24.214Z] debug: [twx-studio:upgrade:POC_5_1] buildApp
+[2019-05-19T23:06:25.683Z] debug: [twx-studio:upgrade:POC_5_1] END buildApp POC_5_1_1558307180896
+[2019-05-19T23:06:25.684Z] debug: [twx-studio:upgrade:POC_5_1] Build succeeded.
+
+2019-05-20T00:07:21.119Z: Project "POC_5_1" saved as new project "POC_5_2"[2019-05-20T00:07:27.698Z] debug: [twx-studio:upgrade:POC_5_2] Begin upgrade of project POC_5_2
+[2019-05-20T00:07:27.698Z] info: [twx-studio:upgrade:POC_5_2] Upgrading project POC_5_2 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_5_2 from 1.38.1553 to 8.4.3.4381 (1.38.1553)
+[2019-05-20T00:07:27.705Z] debug: [twx-studio:upgrade:POC_5_2] Make sure there are not any stale files lying around
+[2019-05-20T00:07:27.706Z] debug: [twx-studio:upgrade:POC_5_2] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_5_2/src/phone/resources/Default/
+[2019-05-20T00:07:27.727Z] debug: [twx-studio:upgrade:POC_5_2] Create .gitignore for project dir
+[2019-05-20T00:07:27.733Z] debug: [twx-studio:upgrade:POC_5_2] Copying /src/**/* to project, overwrite=false
+[2019-05-20T00:07:27.735Z] debug: [twx-studio:upgrade:POC_5_2] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-05-20T00:07:27.972Z] debug: [twx-studio:upgrade:POC_5_2] Copy of project files complete
+[2019-05-20T00:07:27.972Z] debug: [twx-studio:upgrade:POC_5_2] Updating version to  8.4.3.4381 (1.38.1553)
+[2019-05-20T00:07:27.972Z] debug: [twx-studio:upgrade:POC_5_2] onupgrade sucessful, now build the project
+[2019-05-20T00:07:27.972Z] debug: [twx-studio:upgrade:POC_5_2] BEGIN buildApp POC_5_2_1558310847972
+[2019-05-20T00:07:27.972Z] debug: [twx-studio:upgrade:POC_5_2] write settings
+[2019-05-20T00:07:27.974Z] debug: [twx-studio:upgrade:POC_5_2] copy runtime extensions
+[2019-05-20T00:07:29.525Z] debug: [twx-studio:upgrade:POC_5_2] packageThemeSet
+[2019-05-20T00:07:31.062Z] debug: [twx-studio:upgrade:POC_5_2] onBuild
+[2019-05-20T00:07:31.063Z] info: [twx-studio:upgrade:POC_5_2] Building ves-ar-extension app: POC_5_2
+[2019-05-20T00:07:31.114Z] debug: [twx-studio:upgrade:POC_5_2] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_5_2
+[2019-05-20T00:07:31.114Z] debug: [twx-studio:upgrade:POC_5_2] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-05-20T00:07:31.115Z] debug: [twx-studio:upgrade:POC_5_2] copySrc
+[2019-05-20T00:07:32.118Z] debug: [twx-studio:upgrade:POC_5_2] buildApp
+[2019-05-20T00:07:33.498Z] debug: [twx-studio:upgrade:POC_5_2] END buildApp POC_5_2_1558310847972
+[2019-05-20T00:07:33.499Z] debug: [twx-studio:upgrade:POC_5_2] Build succeeded.
+[2019-05-20T14:18:54.793Z] debug: [twx-studio:upgrade:POC_5_2] packageThemeSet
+[2019-05-20T14:18:57.268Z] debug: [twx-studio:upgrade:POC_5_2] onBuild
+[2019-05-20T14:18:57.269Z] info: [twx-studio:upgrade:POC_5_2] Building ves-ar-extension app: POC_5_2
+[2019-05-20T14:18:58.583Z] debug: [twx-studio:upgrade:POC_5_2] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_5_2
+[2019-05-20T14:18:58.583Z] debug: [twx-studio:upgrade:POC_5_2] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-05-20T14:18:58.583Z] debug: [twx-studio:upgrade:POC_5_2] copySrc
+[2019-05-20T14:19:01.570Z] debug: [twx-studio:upgrade:POC_5_2] buildApp
+[2019-05-20T14:19:04.064Z] debug: [twx-studio:upgrade:POC_5_2] END buildApp POC_5_2_1558361930894
+[2019-05-20T14:19:04.065Z] debug: [twx-studio:upgrade:POC_5_2] Build succeeded.
+[2019-05-20T14:59:54.995Z] debug: [twx-studio:upgrade:POC_5_2_1] Begin upgrade of project POC_5_2_1
+[2019-05-20T14:59:54.996Z] info: [twx-studio:upgrade:POC_5_2_1] Upgrading project POC_5_2.1 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_5_2_1 from 1.38.1553 to 8.4.2.4361 (1.37.1544)
+[2019-05-20T14:59:55.000Z] debug: [twx-studio:upgrade:POC_5_2_1] Make sure there are not any stale files lying around
+[2019-05-20T14:59:55.000Z] debug: [twx-studio:upgrade:POC_5_2_1] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_5_2_1/src/phone/resources/Default/
+[2019-05-20T14:59:55.010Z] debug: [twx-studio:upgrade:POC_5_2_1] Create .gitignore for project dir
+[2019-05-20T14:59:55.021Z] debug: [twx-studio:upgrade:POC_5_2_1] Copying /src/**/* to project, overwrite=false
+[2019-05-20T14:59:55.023Z] debug: [twx-studio:upgrade:POC_5_2_1] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-05-20T14:59:55.376Z] debug: [twx-studio:upgrade:POC_5_2_1] Copy of project files complete
+[2019-05-20T14:59:55.376Z] debug: [twx-studio:upgrade:POC_5_2_1] Updating version to  8.4.2.4361 (1.37.1544)
+[2019-05-20T14:59:55.377Z] debug: [twx-studio:upgrade:POC_5_2_1] onupgrade sucessful, now build the project
+[2019-05-20T14:59:55.377Z] debug: [twx-studio:upgrade:POC_5_2_1] BEGIN buildApp POC_5_2_1_1558364395377
+[2019-05-20T14:59:55.377Z] debug: [twx-studio:upgrade:POC_5_2_1] write settings
+[2019-05-20T14:59:55.394Z] debug: [twx-studio:upgrade:POC_5_2_1] copy runtime extensions
+[2019-05-20T14:59:56.547Z] debug: [twx-studio:upgrade:POC_5_2_1] packageThemeSet
+[2019-05-20T14:59:58.436Z] debug: [twx-studio:upgrade:POC_5_2_1] onBuild
+[2019-05-20T14:59:58.436Z] info: [twx-studio:upgrade:POC_5_2_1] Building ves-ar-extension app: POC_5_2.1
+[2019-05-20T14:59:58.508Z] debug: [twx-studio:upgrade:POC_5_2_1] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_5_2_1
+[2019-05-20T14:59:58.508Z] debug: [twx-studio:upgrade:POC_5_2_1] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-05-20T14:59:58.510Z] debug: [twx-studio:upgrade:POC_5_2_1] copySrc
+[2019-05-20T15:00:00.551Z] debug: [twx-studio:upgrade:POC_5_2_1] buildApp
+[2019-05-20T15:00:02.008Z] debug: [twx-studio:upgrade:POC_5_2_1] END buildApp POC_5_2_1_1558364395377
+[2019-05-20T15:00:02.008Z] debug: [twx-studio:upgrade:POC_5_2_1] Build succeeded.
+[2019-05-20T17:30:12.047Z] debug: [twx-studio:upgrade:POC_5_2_1] Begin upgrade of project POC_5_2_1
+[2019-05-20T17:30:12.049Z] info: [twx-studio:upgrade:POC_5_2_1] Upgrading project POC_5_2_1 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_5_2_1 from 1.37.1544 to 8.4.2.4361 (1.37.1544)
+[2019-05-20T17:30:12.072Z] debug: [twx-studio:upgrade:POC_5_2_1] Make sure there are not any stale files lying around
+[2019-05-20T17:30:12.073Z] debug: [twx-studio:upgrade:POC_5_2_1] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_5_2_1/src/phone/resources/Default/
+[2019-05-20T17:30:12.093Z] debug: [twx-studio:upgrade:POC_5_2_1] Create .gitignore for project dir
+[2019-05-20T17:30:12.104Z] debug: [twx-studio:upgrade:POC_5_2_1] Copying /src/**/* to project, overwrite=false
+[2019-05-20T17:30:12.106Z] debug: [twx-studio:upgrade:POC_5_2_1] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-05-20T17:30:12.939Z] debug: [twx-studio:upgrade:POC_5_2_1] Copy of project files complete
+[2019-05-20T17:30:12.941Z] debug: [twx-studio:upgrade:POC_5_2_1] Updating version to  8.4.2.4361 (1.37.1544)
+[2019-05-20T17:30:12.941Z] debug: [twx-studio:upgrade:POC_5_2_1] onupgrade sucessful, now build the project
+[2019-05-20T17:30:12.941Z] debug: [twx-studio:upgrade:POC_5_2_1] BEGIN buildApp POC_5_2_1_1558373412941
+[2019-05-20T17:30:12.946Z] debug: [twx-studio:upgrade:POC_5_2_1] write settings
+[2019-05-20T17:30:12.951Z] debug: [twx-studio:upgrade:POC_5_2_1] copy runtime extensions
+[2019-05-20T17:30:14.738Z] debug: [twx-studio:upgrade:POC_5_2_1] packageThemeSet
+[2019-05-20T17:30:17.101Z] debug: [twx-studio:upgrade:POC_5_2_1] onBuild
+[2019-05-20T17:30:17.101Z] info: [twx-studio:upgrade:POC_5_2_1] Building ves-ar-extension app: POC_5_2_1
+[2019-05-20T17:30:17.113Z] debug: [twx-studio:upgrade:POC_5_2_1] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_5_2_1
+[2019-05-20T17:30:17.113Z] debug: [twx-studio:upgrade:POC_5_2_1] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-05-20T17:30:17.113Z] debug: [twx-studio:upgrade:POC_5_2_1] copySrc
+[2019-05-20T17:30:19.918Z] debug: [twx-studio:upgrade:POC_5_2_1] buildApp
+[2019-05-20T17:30:22.322Z] debug: [twx-studio:upgrade:POC_5_2_1] END buildApp POC_5_2_1_1558373412941
+[2019-05-20T17:30:22.323Z] debug: [twx-studio:upgrade:POC_5_2_1] Build succeeded.
+
+2019-05-20T18:43:37.429Z: Project "POC_5_2_1" saved as new project "POC_5_2_2"[2019-05-20T18:43:49.489Z] debug: [twx-studio:upgrade:POC_5_2_2] Begin upgrade of project POC_5_2_2
+[2019-05-20T18:43:49.489Z] info: [twx-studio:upgrade:POC_5_2_2] Upgrading project POC_5_2_2 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_5_2_2 from 1.37.1544 to 8.4.2.4361 (1.37.1544)
+[2019-05-20T18:43:49.493Z] debug: [twx-studio:upgrade:POC_5_2_2] Make sure there are not any stale files lying around
+[2019-05-20T18:43:49.494Z] debug: [twx-studio:upgrade:POC_5_2_2] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_5_2_2/src/phone/resources/Default/
+[2019-05-20T18:43:49.505Z] debug: [twx-studio:upgrade:POC_5_2_2] Create .gitignore for project dir
+[2019-05-20T18:43:49.548Z] debug: [twx-studio:upgrade:POC_5_2_2] Copying /src/**/* to project, overwrite=false
+[2019-05-20T18:43:49.550Z] debug: [twx-studio:upgrade:POC_5_2_2] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-05-20T18:43:50.202Z] debug: [twx-studio:upgrade:POC_5_2_2] Copy of project files complete
+[2019-05-20T18:43:50.202Z] debug: [twx-studio:upgrade:POC_5_2_2] Updating version to  8.4.2.4361 (1.37.1544)
+[2019-05-20T18:43:50.203Z] debug: [twx-studio:upgrade:POC_5_2_2] onupgrade sucessful, now build the project
+[2019-05-20T18:43:50.203Z] debug: [twx-studio:upgrade:POC_5_2_2] BEGIN buildApp POC_5_2_2_1558377830203
+[2019-05-20T18:43:50.203Z] debug: [twx-studio:upgrade:POC_5_2_2] write settings
+[2019-05-20T18:43:50.206Z] debug: [twx-studio:upgrade:POC_5_2_2] copy runtime extensions
+[2019-05-20T18:43:52.308Z] debug: [twx-studio:upgrade:POC_5_2_2] packageThemeSet
+[2019-05-20T18:43:55.114Z] debug: [twx-studio:upgrade:POC_5_2_2] onBuild
+[2019-05-20T18:43:55.114Z] info: [twx-studio:upgrade:POC_5_2_2] Building ves-ar-extension app: POC_5_2_2
+[2019-05-20T18:43:55.149Z] debug: [twx-studio:upgrade:POC_5_2_2] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_5_2_2
+[2019-05-20T18:43:55.149Z] debug: [twx-studio:upgrade:POC_5_2_2] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-05-20T18:43:55.149Z] debug: [twx-studio:upgrade:POC_5_2_2] copySrc
+[2019-05-20T18:43:58.527Z] debug: [twx-studio:upgrade:POC_5_2_2] buildApp
+[2019-05-20T18:44:01.727Z] debug: [twx-studio:upgrade:POC_5_2_2] END buildApp POC_5_2_2_1558377830203
+[2019-05-20T18:44:01.728Z] debug: [twx-studio:upgrade:POC_5_2_2] Build succeeded.
+[2019-05-23T17:26:10.495Z] debug: [twx-studio:upgrade:POC_5_2_2] Begin upgrade of project POC_5_2_2
+[2019-05-23T17:26:10.496Z] info: [twx-studio:upgrade:POC_5_2_2] Upgrading project POC_5_2_2 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_5_2_2 from 1.37.1544 to 8.4.3.4381 (1.38.1553)
+[2019-05-23T17:26:10.795Z] debug: [twx-studio:upgrade:POC_5_2_2] Make sure there are not any stale files lying around
+[2019-05-23T17:26:10.795Z] debug: [twx-studio:upgrade:POC_5_2_2] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_5_2_2/css/
+[2019-05-23T17:26:10.877Z] debug: [twx-studio:upgrade:POC_5_2_2] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_5_2_2/dist/
+[2019-05-23T17:26:11.482Z] debug: [twx-studio:upgrade:POC_5_2_2] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_5_2_2/extensions/
+[2019-05-23T17:26:11.641Z] debug: [twx-studio:upgrade:POC_5_2_2] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_5_2_2/src/phone/resources/Default/
+[2019-05-23T17:26:11.717Z] debug: [twx-studio:upgrade:POC_5_2_2] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_5_2_2/theme/
+[2019-05-23T17:26:11.781Z] debug: [twx-studio:upgrade:POC_5_2_2] Copying /src/**/* to project, overwrite=false
+[2019-05-23T17:26:11.783Z] debug: [twx-studio:upgrade:POC_5_2_2] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-05-23T17:26:12.362Z] debug: [twx-studio:upgrade:POC_5_2_2] Copy of project files complete
+[2019-05-23T17:26:12.362Z] debug: [twx-studio:upgrade:POC_5_2_2] Updating version to  8.4.3.4381 (1.38.1553)
+[2019-05-23T17:26:12.362Z] debug: [twx-studio:upgrade:POC_5_2_2] onupgrade sucessful, now build the project
+[2019-05-23T17:26:12.362Z] debug: [twx-studio:upgrade:POC_5_2_2] BEGIN buildApp POC_5_2_2_1558632372362
+[2019-05-23T17:26:12.363Z] debug: [twx-studio:upgrade:POC_5_2_2] write settings
+[2019-05-23T17:26:12.370Z] debug: [twx-studio:upgrade:POC_5_2_2] copy runtime extensions
+[2019-05-23T17:26:14.484Z] debug: [twx-studio:upgrade:POC_5_2_2] packageThemeSet
+[2019-05-23T17:26:15.794Z] debug: [twx-studio:upgrade:POC_5_2_2] onBuild
+[2019-05-23T17:26:15.795Z] info: [twx-studio:upgrade:POC_5_2_2] Building ves-ar-extension app: POC_5_2_2
+[2019-05-23T17:26:15.806Z] debug: [twx-studio:upgrade:POC_5_2_2] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_5_2_2
+[2019-05-23T17:26:15.806Z] debug: [twx-studio:upgrade:POC_5_2_2] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-05-23T17:26:15.806Z] debug: [twx-studio:upgrade:POC_5_2_2] copySrc
+[2019-05-23T17:26:17.873Z] debug: [twx-studio:upgrade:POC_5_2_2] buildApp
+[2019-05-23T17:26:19.281Z] debug: [twx-studio:upgrade:POC_5_2_2] END buildApp POC_5_2_2_1558632372362
+[2019-05-23T17:26:19.281Z] debug: [twx-studio:upgrade:POC_5_2_2] Build succeeded.
+
+2019-05-24T12:36:23.570Z: Project "POC_5_2_2" saved as new project "POC_6"[2019-05-25T19:53:22.169Z] debug: [twx-studio:upgrade:POC_6] Begin upgrade of project POC_6
+[2019-05-25T19:53:22.170Z] info: [twx-studio:upgrade:POC_6] Upgrading project POC_6 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_6 from 1.38.1553 to 8.4.3.4381 (1.38.1553)
+[2019-05-25T19:53:22.175Z] debug: [twx-studio:upgrade:POC_6] Make sure there are not any stale files lying around
+[2019-05-25T19:53:22.176Z] debug: [twx-studio:upgrade:POC_6] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_6/src/phone/resources/Default/
+[2019-05-25T19:53:22.202Z] debug: [twx-studio:upgrade:POC_6] Create .gitignore for project dir
+[2019-05-25T19:53:22.204Z] debug: [twx-studio:upgrade:POC_6] Copying /src/**/* to project, overwrite=false
+[2019-05-25T19:53:22.206Z] debug: [twx-studio:upgrade:POC_6] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-05-25T19:53:22.445Z] debug: [twx-studio:upgrade:POC_6] Copy of project files complete
+[2019-05-25T19:53:22.445Z] debug: [twx-studio:upgrade:POC_6] Updating version to  8.4.3.4381 (1.38.1553)
+[2019-05-25T19:53:22.445Z] debug: [twx-studio:upgrade:POC_6] onupgrade sucessful, now build the project
+[2019-05-25T19:53:22.445Z] debug: [twx-studio:upgrade:POC_6] BEGIN buildApp POC_6_1558814002445
+[2019-05-25T19:53:22.445Z] debug: [twx-studio:upgrade:POC_6] write settings
+[2019-05-25T19:53:22.447Z] debug: [twx-studio:upgrade:POC_6] copy runtime extensions
+[2019-05-25T19:53:24.214Z] debug: [twx-studio:upgrade:POC_6] packageThemeSet
+[2019-05-25T19:53:25.613Z] debug: [twx-studio:upgrade:POC_6] onBuild
+[2019-05-25T19:53:25.613Z] info: [twx-studio:upgrade:POC_6] Building ves-ar-extension app: POC_6
+[2019-05-25T19:53:25.670Z] debug: [twx-studio:upgrade:POC_6] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_6
+[2019-05-25T19:53:25.670Z] debug: [twx-studio:upgrade:POC_6] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-05-25T19:53:25.670Z] debug: [twx-studio:upgrade:POC_6] copySrc
+[2019-05-25T19:53:26.729Z] debug: [twx-studio:upgrade:POC_6] buildApp
+[2019-05-25T19:53:27.814Z] debug: [twx-studio:upgrade:POC_6] END buildApp POC_6_1558814002445
+[2019-05-25T19:53:27.814Z] debug: [twx-studio:upgrade:POC_6] Build succeeded.
+
+2019-05-27T02:07:24.233Z: Project "POC_6" saved as new project "POC_6_1"[2019-05-27T11:38:11.697Z] debug: [twx-studio:upgrade:POC_6_1] Begin upgrade of project POC_6_1
+[2019-05-27T11:38:11.700Z] info: [twx-studio:upgrade:POC_6_1] Upgrading project POC_6_1 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_6_1 from 1.38.1553 to 8.4.3.4381 (1.38.1553)
+[2019-05-27T11:38:12.082Z] debug: [twx-studio:upgrade:POC_6_1] Make sure there are not any stale files lying around
+[2019-05-27T11:38:12.083Z] debug: [twx-studio:upgrade:POC_6_1] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_6_1/src/phone/resources/Default/
+[2019-05-27T11:38:12.139Z] debug: [twx-studio:upgrade:POC_6_1] Create .gitignore for project dir
+[2019-05-27T11:38:12.148Z] debug: [twx-studio:upgrade:POC_6_1] Copying /src/**/* to project, overwrite=false
+[2019-05-27T11:38:12.150Z] debug: [twx-studio:upgrade:POC_6_1] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-05-27T11:38:13.107Z] debug: [twx-studio:upgrade:POC_6_1] Copy of project files complete
+[2019-05-27T11:38:13.107Z] debug: [twx-studio:upgrade:POC_6_1] Updating version to  8.4.3.4381 (1.38.1553)
+[2019-05-27T11:38:13.107Z] debug: [twx-studio:upgrade:POC_6_1] onupgrade sucessful, now build the project
+[2019-05-27T11:38:13.108Z] debug: [twx-studio:upgrade:POC_6_1] BEGIN buildApp POC_6_1_1558957093107
+[2019-05-27T11:38:13.108Z] debug: [twx-studio:upgrade:POC_6_1] write settings
+[2019-05-27T11:38:13.110Z] debug: [twx-studio:upgrade:POC_6_1] copy runtime extensions
+[2019-05-27T11:38:15.144Z] debug: [twx-studio:upgrade:POC_6_1] packageThemeSet
+[2019-05-27T11:38:17.882Z] debug: [twx-studio:upgrade:POC_6_1] onBuild
+[2019-05-27T11:38:17.882Z] info: [twx-studio:upgrade:POC_6_1] Building ves-ar-extension app: POC_6_1
+[2019-05-27T11:38:17.895Z] debug: [twx-studio:upgrade:POC_6_1] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_6_1
+[2019-05-27T11:38:17.895Z] debug: [twx-studio:upgrade:POC_6_1] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-05-27T11:38:17.895Z] debug: [twx-studio:upgrade:POC_6_1] copySrc
+[2019-05-27T11:38:20.479Z] debug: [twx-studio:upgrade:POC_6_1] buildApp
+[2019-05-27T11:38:22.267Z] debug: [twx-studio:upgrade:POC_6_1] END buildApp POC_6_1_1558957093107
+[2019-05-27T11:38:22.267Z] debug: [twx-studio:upgrade:POC_6_1] Build succeeded.
+
+2019-05-27T14:12:33.839Z: Project "POC_6_1" saved as new project "POC_6_2"
+2019-05-27T14:12:59.587Z: Project "POC_6_2" saved as new project "POC_6_3-copy"[2019-05-27T16:51:10.170Z] debug: [twx-studio:upgrade:POC_6_3-copy] Begin upgrade of project POC_6_3-copy
+[2019-05-27T16:51:10.170Z] info: [twx-studio:upgrade:POC_6_3-copy] Upgrading project POC_6_3-copy C:\Users\italo\Documents\VuforiaStudio\Projects\POC_6_3-copy from 1.38.1553 to 8.4.3.4381 (1.38.1553)
+[2019-05-27T16:51:10.174Z] debug: [twx-studio:upgrade:POC_6_3-copy] Make sure there are not any stale files lying around
+[2019-05-27T16:51:10.174Z] debug: [twx-studio:upgrade:POC_6_3-copy] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_6_3-copy/src/phone/resources/Default/
+[2019-05-27T16:51:10.189Z] debug: [twx-studio:upgrade:POC_6_3-copy] Create .gitignore for project dir
+[2019-05-27T16:51:10.198Z] debug: [twx-studio:upgrade:POC_6_3-copy] Copying /src/**/* to project, overwrite=false
+[2019-05-27T16:51:10.200Z] debug: [twx-studio:upgrade:POC_6_3-copy] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-05-27T16:51:10.635Z] debug: [twx-studio:upgrade:POC_6_3-copy] Copy of project files complete
+[2019-05-27T16:51:10.635Z] debug: [twx-studio:upgrade:POC_6_3-copy] Updating version to  8.4.3.4381 (1.38.1553)
+[2019-05-27T16:51:10.635Z] debug: [twx-studio:upgrade:POC_6_3-copy] onupgrade sucessful, now build the project
+[2019-05-27T16:51:10.635Z] debug: [twx-studio:upgrade:POC_6_3-copy] BEGIN buildApp POC_6_3-copy_1558975870635
+[2019-05-27T16:51:10.636Z] debug: [twx-studio:upgrade:POC_6_3-copy] write settings
+[2019-05-27T16:51:10.639Z] debug: [twx-studio:upgrade:POC_6_3-copy] copy runtime extensions
+[2019-05-27T16:51:12.589Z] debug: [twx-studio:upgrade:POC_6_3-copy] packageThemeSet
+[2019-05-27T16:51:14.207Z] debug: [twx-studio:upgrade:POC_6_3-copy] onBuild
+[2019-05-27T16:51:14.208Z] info: [twx-studio:upgrade:POC_6_3-copy] Building ves-ar-extension app: POC_6_3-copy
+[2019-05-27T16:51:14.280Z] debug: [twx-studio:upgrade:POC_6_3-copy] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_6_3-copy
+[2019-05-27T16:51:14.280Z] debug: [twx-studio:upgrade:POC_6_3-copy] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-05-27T16:51:14.280Z] debug: [twx-studio:upgrade:POC_6_3-copy] copySrc
+[2019-05-27T16:51:16.254Z] debug: [twx-studio:upgrade:POC_6_3-copy] buildApp
+[2019-05-27T16:51:20.384Z] debug: [twx-studio:upgrade:POC_6_3-copy] END buildApp POC_6_3-copy_1558975870635
+[2019-05-27T16:51:20.384Z] debug: [twx-studio:upgrade:POC_6_3-copy] Build succeeded.
+
+2019-05-27T17:41:36.523Z: Project "POC_6_3-copy" saved as new project "POC_6_4"[2019-05-27T17:42:51.931Z] debug: [twx-studio:upgrade:POC_6_4] Begin upgrade of project POC_6_4
+[2019-05-27T17:42:51.931Z] info: [twx-studio:upgrade:POC_6_4] Upgrading project POC_6_4 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_6_4 from 1.38.1553 to 8.4.3.4381 (1.38.1553)
+[2019-05-27T17:42:51.937Z] debug: [twx-studio:upgrade:POC_6_4] Make sure there are not any stale files lying around
+[2019-05-27T17:42:51.938Z] debug: [twx-studio:upgrade:POC_6_4] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_6_4/src/phone/resources/Default/
+[2019-05-27T17:42:51.948Z] debug: [twx-studio:upgrade:POC_6_4] Create .gitignore for project dir
+[2019-05-27T17:42:51.964Z] debug: [twx-studio:upgrade:POC_6_4] Copying /src/**/* to project, overwrite=false
+[2019-05-27T17:42:51.965Z] debug: [twx-studio:upgrade:POC_6_4] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-05-27T17:42:52.183Z] debug: [twx-studio:upgrade:POC_6_4] Copy of project files complete
+[2019-05-27T17:42:52.184Z] debug: [twx-studio:upgrade:POC_6_4] Updating version to  8.4.3.4381 (1.38.1553)
+[2019-05-27T17:42:52.185Z] debug: [twx-studio:upgrade:POC_6_4] onupgrade sucessful, now build the project
+[2019-05-27T17:42:52.185Z] debug: [twx-studio:upgrade:POC_6_4] BEGIN buildApp POC_6_4_1558978972185
+[2019-05-27T17:42:52.185Z] debug: [twx-studio:upgrade:POC_6_4] write settings
+[2019-05-27T17:42:52.188Z] debug: [twx-studio:upgrade:POC_6_4] copy runtime extensions
+[2019-05-27T17:42:53.080Z] debug: [twx-studio:upgrade:POC_6_4] packageThemeSet
+[2019-05-27T17:42:54.333Z] debug: [twx-studio:upgrade:POC_6_4] onBuild
+[2019-05-27T17:42:54.334Z] info: [twx-studio:upgrade:POC_6_4] Building ves-ar-extension app: POC_6_4
+[2019-05-27T17:42:54.347Z] debug: [twx-studio:upgrade:POC_6_4] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_6_4
+[2019-05-27T17:42:54.347Z] debug: [twx-studio:upgrade:POC_6_4] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-05-27T17:42:54.347Z] debug: [twx-studio:upgrade:POC_6_4] copySrc
+[2019-05-27T17:42:55.439Z] debug: [twx-studio:upgrade:POC_6_4] buildApp
+[2019-05-27T17:42:59.042Z] debug: [twx-studio:upgrade:POC_6_4] END buildApp POC_6_4_1558978972185
+[2019-05-27T17:42:59.042Z] debug: [twx-studio:upgrade:POC_6_4] Build succeeded.
+[2019-05-29T18:18:39.195Z] debug: [twx-studio:upgrade:POC_6_4] Begin upgrade of project POC_6_4
+[2019-05-29T18:18:39.197Z] info: [twx-studio:upgrade:POC_6_4] Upgrading project POC_6_4 C:\Users\ezioc\Documents\VuforiaStudio\Projects\POC_6_4 from 1.38.1553 to 8.4.2.4361 (1.37.1544)
+[2019-05-29T18:18:39.372Z] debug: [twx-studio:upgrade:POC_6_4] Make sure there are not any stale files lying around
+[2019-05-29T18:18:39.372Z] debug: [twx-studio:upgrade:POC_6_4] Removing  C:\Users\ezioc\Documents\VuforiaStudio\Projects\POC_6_4/src/phone/resources/Default/
+[2019-05-29T18:18:39.397Z] debug: [twx-studio:upgrade:POC_6_4] Create .gitignore for project dir
+[2019-05-29T18:18:39.398Z] debug: [twx-studio:upgrade:POC_6_4] Copying /src/**/* to project, overwrite=false
+[2019-05-29T18:18:39.399Z] debug: [twx-studio:upgrade:POC_6_4] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-05-29T18:18:39.767Z] debug: [twx-studio:upgrade:POC_6_4] Copy of project files complete
+[2019-05-29T18:18:39.768Z] debug: [twx-studio:upgrade:POC_6_4] Updating version to  8.4.2.4361 (1.37.1544)
+[2019-05-29T18:18:39.768Z] debug: [twx-studio:upgrade:POC_6_4] onupgrade sucessful, now build the project
+[2019-05-29T18:18:39.768Z] debug: [twx-studio:upgrade:POC_6_4] BEGIN buildApp POC_6_4_1559153919768
+[2019-05-29T18:18:39.768Z] debug: [twx-studio:upgrade:POC_6_4] write settings
+[2019-05-29T18:18:39.769Z] debug: [twx-studio:upgrade:POC_6_4] copy runtime extensions
+[2019-05-29T18:18:40.378Z] debug: [twx-studio:upgrade:POC_6_4] packageThemeSet
+[2019-05-29T18:18:41.781Z] debug: [twx-studio:upgrade:POC_6_4] onBuild
+[2019-05-29T18:18:41.781Z] info: [twx-studio:upgrade:POC_6_4] Building ves-ar-extension app: POC_6_4
+[2019-05-29T18:18:42.033Z] debug: [twx-studio:upgrade:POC_6_4] pathDir C:\Users\ezioc\Documents\VuforiaStudio\Projects\POC_6_4
+[2019-05-29T18:18:42.033Z] debug: [twx-studio:upgrade:POC_6_4] scaffoldDir C:\Users\ezioc\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-05-29T18:18:42.033Z] debug: [twx-studio:upgrade:POC_6_4] copySrc
+[2019-05-29T18:18:43.135Z] debug: [twx-studio:upgrade:POC_6_4] buildApp
+[2019-05-29T18:18:44.706Z] debug: [twx-studio:upgrade:POC_6_4] END buildApp POC_6_4_1559153919768
+[2019-05-29T18:18:44.707Z] debug: [twx-studio:upgrade:POC_6_4] Build succeeded.
+[2019-05-29T18:29:26.453Z] debug: [twx-studio:upgrade:POC_6_4] Begin upgrade of project POC_6_4
+[2019-05-29T18:29:26.453Z] info: [twx-studio:upgrade:POC_6_4] Upgrading project POC_6_4 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_6_4 from 1.37.1544 to 8.4.3.4381 (1.38.1553)
+[2019-05-29T18:29:26.456Z] debug: [twx-studio:upgrade:POC_6_4] Make sure there are not any stale files lying around
+[2019-05-29T18:29:26.457Z] debug: [twx-studio:upgrade:POC_6_4] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_6_4/src/phone/resources/Default/
+[2019-05-29T18:29:26.468Z] debug: [twx-studio:upgrade:POC_6_4] Create .gitignore for project dir
+[2019-05-29T18:29:26.470Z] debug: [twx-studio:upgrade:POC_6_4] Copying /src/**/* to project, overwrite=false
+[2019-05-29T18:29:26.471Z] debug: [twx-studio:upgrade:POC_6_4] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-05-29T18:29:26.697Z] debug: [twx-studio:upgrade:POC_6_4] Copy of project files complete
+[2019-05-29T18:29:26.698Z] debug: [twx-studio:upgrade:POC_6_4] Updating version to  8.4.3.4381 (1.38.1553)
+[2019-05-29T18:29:26.698Z] debug: [twx-studio:upgrade:POC_6_4] onupgrade sucessful, now build the project
+[2019-05-29T18:29:26.698Z] debug: [twx-studio:upgrade:POC_6_4] BEGIN buildApp POC_6_4_1559154566698
+[2019-05-29T18:29:26.698Z] debug: [twx-studio:upgrade:POC_6_4] write settings
+[2019-05-29T18:29:26.699Z] debug: [twx-studio:upgrade:POC_6_4] copy runtime extensions
+[2019-05-29T18:29:28.367Z] debug: [twx-studio:upgrade:POC_6_4] packageThemeSet
+[2019-05-29T18:29:29.535Z] debug: [twx-studio:upgrade:POC_6_4] onBuild
+[2019-05-29T18:29:29.535Z] info: [twx-studio:upgrade:POC_6_4] Building ves-ar-extension app: POC_6_4
+[2019-05-29T18:29:29.536Z] debug: [twx-studio:upgrade:POC_6_4] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_6_4
+[2019-05-29T18:29:29.536Z] debug: [twx-studio:upgrade:POC_6_4] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-05-29T18:29:29.536Z] debug: [twx-studio:upgrade:POC_6_4] copySrc
+[2019-05-29T18:29:30.616Z] debug: [twx-studio:upgrade:POC_6_4] buildApp
+[2019-05-29T18:29:32.047Z] debug: [twx-studio:upgrade:POC_6_4] END buildApp POC_6_4_1559154566698
+[2019-05-29T18:29:32.047Z] debug: [twx-studio:upgrade:POC_6_4] Build succeeded.
+[2019-05-30T11:39:24.549Z] debug: [twx-studio:upgrade:POC_6_4] Begin upgrade of project POC_6_4
+[2019-05-30T11:39:24.550Z] info: [twx-studio:upgrade:POC_6_4] Upgrading project POC_6_4 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_6_4 from 1.38.1553 to 8.4.3.4381 (1.38.1553)
+[2019-05-30T11:39:24.553Z] debug: [twx-studio:upgrade:POC_6_4] Make sure there are not any stale files lying around
+[2019-05-30T11:39:24.554Z] debug: [twx-studio:upgrade:POC_6_4] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_6_4/src/phone/resources/Default/
+[2019-05-30T11:39:24.563Z] debug: [twx-studio:upgrade:POC_6_4] Create .gitignore for project dir
+[2019-05-30T11:39:24.565Z] debug: [twx-studio:upgrade:POC_6_4] Copying /src/**/* to project, overwrite=false
+[2019-05-30T11:39:24.567Z] debug: [twx-studio:upgrade:POC_6_4] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-05-30T11:39:24.885Z] debug: [twx-studio:upgrade:POC_6_4] Copy of project files complete
+[2019-05-30T11:39:24.885Z] debug: [twx-studio:upgrade:POC_6_4] Updating version to  8.4.3.4381 (1.38.1553)
+[2019-05-30T11:39:24.885Z] debug: [twx-studio:upgrade:POC_6_4] onupgrade sucessful, now build the project
+[2019-05-30T11:39:24.885Z] debug: [twx-studio:upgrade:POC_6_4] BEGIN buildApp POC_6_4_1559216364885
+[2019-05-30T11:39:24.885Z] debug: [twx-studio:upgrade:POC_6_4] write settings
+[2019-05-30T11:39:24.888Z] debug: [twx-studio:upgrade:POC_6_4] copy runtime extensions
+[2019-05-30T11:39:26.573Z] debug: [twx-studio:upgrade:POC_6_4] packageThemeSet
+[2019-05-30T11:39:27.732Z] debug: [twx-studio:upgrade:POC_6_4] onBuild
+[2019-05-30T11:39:27.733Z] info: [twx-studio:upgrade:POC_6_4] Building ves-ar-extension app: POC_6_4
+[2019-05-30T11:39:27.734Z] debug: [twx-studio:upgrade:POC_6_4] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_6_4
+[2019-05-30T11:39:27.734Z] debug: [twx-studio:upgrade:POC_6_4] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-05-30T11:39:27.734Z] debug: [twx-studio:upgrade:POC_6_4] copySrc
+[2019-05-30T11:39:28.948Z] debug: [twx-studio:upgrade:POC_6_4] buildApp
+[2019-05-30T11:39:31.249Z] debug: [twx-studio:upgrade:POC_6_4] END buildApp POC_6_4_1559216364885
+[2019-05-30T11:39:31.249Z] debug: [twx-studio:upgrade:POC_6_4] Build succeeded.
+
+2019-05-30T12:18:08.349Z: Project "POC_6_4" saved as new project "POC_6_4_1"[2019-05-30T12:18:11.065Z] debug: [twx-studio:upgrade:POC_6_4_1] Begin upgrade of project POC_6_4_1
+[2019-05-30T12:18:11.065Z] info: [twx-studio:upgrade:POC_6_4_1] Upgrading project POC_6_4_1 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_6_4_1 from 1.38.1553 to 8.4.3.4381 (1.38.1553)
+[2019-05-30T12:18:11.068Z] debug: [twx-studio:upgrade:POC_6_4_1] Make sure there are not any stale files lying around
+[2019-05-30T12:18:11.069Z] debug: [twx-studio:upgrade:POC_6_4_1] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_6_4_1/src/phone/resources/Default/
+[2019-05-30T12:18:11.078Z] debug: [twx-studio:upgrade:POC_6_4_1] Create .gitignore for project dir
+[2019-05-30T12:18:11.080Z] debug: [twx-studio:upgrade:POC_6_4_1] Copying /src/**/* to project, overwrite=false
+[2019-05-30T12:18:11.081Z] debug: [twx-studio:upgrade:POC_6_4_1] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-05-30T12:18:11.319Z] debug: [twx-studio:upgrade:POC_6_4_1] Copy of project files complete
+[2019-05-30T12:18:11.319Z] debug: [twx-studio:upgrade:POC_6_4_1] Updating version to  8.4.3.4381 (1.38.1553)
+[2019-05-30T12:18:11.320Z] debug: [twx-studio:upgrade:POC_6_4_1] onupgrade sucessful, now build the project
+[2019-05-30T12:18:11.320Z] debug: [twx-studio:upgrade:POC_6_4_1] BEGIN buildApp POC_6_4_1_1559218691320
+[2019-05-30T12:18:11.320Z] debug: [twx-studio:upgrade:POC_6_4_1] write settings
+[2019-05-30T12:18:11.326Z] debug: [twx-studio:upgrade:POC_6_4_1] copy runtime extensions
+[2019-05-30T12:18:12.522Z] debug: [twx-studio:upgrade:POC_6_4_1] packageThemeSet
+[2019-05-30T12:18:13.861Z] debug: [twx-studio:upgrade:POC_6_4_1] onBuild
+[2019-05-30T12:18:13.861Z] info: [twx-studio:upgrade:POC_6_4_1] Building ves-ar-extension app: POC_6_4_1
+[2019-05-30T12:18:13.877Z] debug: [twx-studio:upgrade:POC_6_4_1] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_6_4_1
+[2019-05-30T12:18:13.877Z] debug: [twx-studio:upgrade:POC_6_4_1] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-05-30T12:18:13.877Z] debug: [twx-studio:upgrade:POC_6_4_1] copySrc
+[2019-05-30T12:18:15.608Z] debug: [twx-studio:upgrade:POC_6_4_1] buildApp
+[2019-05-30T12:18:18.258Z] debug: [twx-studio:upgrade:POC_6_4_1] END buildApp POC_6_4_1_1559218691320
+[2019-05-30T12:18:18.258Z] debug: [twx-studio:upgrade:POC_6_4_1] Build succeeded.
+
+2019-05-30T15:05:17.129Z: Project "POC_6_4_1" saved as new project "POC_6_4_2"[2019-05-30T15:05:20.947Z] debug: [twx-studio:upgrade:POC_6_4_2] Begin upgrade of project POC_6_4_2
+[2019-05-30T15:05:20.948Z] info: [twx-studio:upgrade:POC_6_4_2] Upgrading project POC_6_4_2 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_6_4_2 from 1.38.1553 to 8.4.3.4381 (1.38.1553)
+[2019-05-30T15:05:20.992Z] debug: [twx-studio:upgrade:POC_6_4_2] Make sure there are not any stale files lying around
+[2019-05-30T15:05:20.993Z] debug: [twx-studio:upgrade:POC_6_4_2] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_6_4_2/src/phone/resources/Default/
+[2019-05-30T15:05:21.030Z] debug: [twx-studio:upgrade:POC_6_4_2] Create .gitignore for project dir
+[2019-05-30T15:05:21.085Z] debug: [twx-studio:upgrade:POC_6_4_2] Copying /src/**/* to project, overwrite=false
+[2019-05-30T15:05:21.087Z] debug: [twx-studio:upgrade:POC_6_4_2] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-05-30T15:05:21.496Z] debug: [twx-studio:upgrade:POC_6_4_2] Copy of project files complete
+[2019-05-30T15:05:21.496Z] debug: [twx-studio:upgrade:POC_6_4_2] Updating version to  8.4.3.4381 (1.38.1553)
+[2019-05-30T15:05:21.496Z] debug: [twx-studio:upgrade:POC_6_4_2] onupgrade sucessful, now build the project
+[2019-05-30T15:05:21.496Z] debug: [twx-studio:upgrade:POC_6_4_2] BEGIN buildApp POC_6_4_2_1559228721496
+[2019-05-30T15:05:21.497Z] debug: [twx-studio:upgrade:POC_6_4_2] write settings
+[2019-05-30T15:05:21.499Z] debug: [twx-studio:upgrade:POC_6_4_2] copy runtime extensions
+[2019-05-30T15:05:22.371Z] debug: [twx-studio:upgrade:POC_6_4_2] packageThemeSet
+[2019-05-30T15:05:24.360Z] debug: [twx-studio:upgrade:POC_6_4_2] onBuild
+[2019-05-30T15:05:24.360Z] info: [twx-studio:upgrade:POC_6_4_2] Building ves-ar-extension app: POC_6_4_2
+[2019-05-30T15:05:24.537Z] debug: [twx-studio:upgrade:POC_6_4_2] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_6_4_2
+[2019-05-30T15:05:24.537Z] debug: [twx-studio:upgrade:POC_6_4_2] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-05-30T15:05:24.538Z] debug: [twx-studio:upgrade:POC_6_4_2] copySrc
+[2019-05-30T15:05:26.070Z] debug: [twx-studio:upgrade:POC_6_4_2] buildApp
+[2019-05-30T15:05:28.674Z] debug: [twx-studio:upgrade:POC_6_4_2] END buildApp POC_6_4_2_1559228721496
+[2019-05-30T15:05:28.675Z] debug: [twx-studio:upgrade:POC_6_4_2] Build succeeded.
+
+2019-05-30T16:18:44.429Z: Project "POC_6_4_2" saved as new project "POC_6_4_3"[2019-05-30T16:18:48.361Z] debug: [twx-studio:upgrade:POC_6_4_3] Begin upgrade of project POC_6_4_3
+[2019-05-30T16:18:48.362Z] info: [twx-studio:upgrade:POC_6_4_3] Upgrading project POC_6_4_3 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_6_4_3 from 1.38.1553 to 8.4.3.4381 (1.38.1553)
+[2019-05-30T16:18:48.364Z] debug: [twx-studio:upgrade:POC_6_4_3] Make sure there are not any stale files lying around
+[2019-05-30T16:18:48.365Z] debug: [twx-studio:upgrade:POC_6_4_3] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_6_4_3/src/phone/resources/Default/
+[2019-05-30T16:18:48.374Z] debug: [twx-studio:upgrade:POC_6_4_3] Create .gitignore for project dir
+[2019-05-30T16:18:48.377Z] debug: [twx-studio:upgrade:POC_6_4_3] Copying /src/**/* to project, overwrite=false
+[2019-05-30T16:18:48.379Z] debug: [twx-studio:upgrade:POC_6_4_3] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-05-30T16:18:48.692Z] debug: [twx-studio:upgrade:POC_6_4_3] Copy of project files complete
+[2019-05-30T16:18:48.692Z] debug: [twx-studio:upgrade:POC_6_4_3] Updating version to  8.4.3.4381 (1.38.1553)
+[2019-05-30T16:18:48.692Z] debug: [twx-studio:upgrade:POC_6_4_3] onupgrade sucessful, now build the project
+[2019-05-30T16:18:48.692Z] debug: [twx-studio:upgrade:POC_6_4_3] BEGIN buildApp POC_6_4_3_1559233128692
+[2019-05-30T16:18:48.692Z] debug: [twx-studio:upgrade:POC_6_4_3] write settings
+[2019-05-30T16:18:48.695Z] debug: [twx-studio:upgrade:POC_6_4_3] copy runtime extensions
+[2019-05-30T16:18:49.729Z] debug: [twx-studio:upgrade:POC_6_4_3] packageThemeSet
+[2019-05-30T16:18:51.250Z] debug: [twx-studio:upgrade:POC_6_4_3] onBuild
+[2019-05-30T16:18:51.250Z] info: [twx-studio:upgrade:POC_6_4_3] Building ves-ar-extension app: POC_6_4_3
+[2019-05-30T16:18:51.263Z] debug: [twx-studio:upgrade:POC_6_4_3] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_6_4_3
+[2019-05-30T16:18:51.265Z] debug: [twx-studio:upgrade:POC_6_4_3] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-05-30T16:18:51.265Z] debug: [twx-studio:upgrade:POC_6_4_3] copySrc
+[2019-05-30T16:18:52.627Z] debug: [twx-studio:upgrade:POC_6_4_3] buildApp
+[2019-05-30T16:18:55.702Z] debug: [twx-studio:upgrade:POC_6_4_3] END buildApp POC_6_4_3_1559233128692
+[2019-05-30T16:18:55.702Z] debug: [twx-studio:upgrade:POC_6_4_3] Build succeeded.
+
+2019-05-31T13:08:46.585Z: Project "POC_6_4_3" saved as new project "POC_6_5"[2019-05-31T13:08:51.735Z] debug: [twx-studio:upgrade:POC_6_5] Begin upgrade of project POC_6_5
+[2019-05-31T13:08:51.736Z] info: [twx-studio:upgrade:POC_6_5] Upgrading project POC_6_5 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_6_5 from 1.38.1553 to 8.4.3.4381 (1.38.1553)
+[2019-05-31T13:08:52.567Z] debug: [twx-studio:upgrade:POC_6_5] Make sure there are not any stale files lying around
+[2019-05-31T13:08:52.568Z] debug: [twx-studio:upgrade:POC_6_5] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_6_5/src/phone/resources/Default/
+[2019-05-31T13:08:53.156Z] debug: [twx-studio:upgrade:POC_6_5] Create .gitignore for project dir
+[2019-05-31T13:08:53.161Z] debug: [twx-studio:upgrade:POC_6_5] Copying /src/**/* to project, overwrite=false
+[2019-05-31T13:08:53.162Z] debug: [twx-studio:upgrade:POC_6_5] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-05-31T13:08:53.927Z] debug: [twx-studio:upgrade:POC_6_5] Copy of project files complete
+[2019-05-31T13:08:53.927Z] debug: [twx-studio:upgrade:POC_6_5] Updating version to  8.4.3.4381 (1.38.1553)
+[2019-05-31T13:08:53.927Z] debug: [twx-studio:upgrade:POC_6_5] onupgrade sucessful, now build the project
+[2019-05-31T13:08:53.927Z] debug: [twx-studio:upgrade:POC_6_5] BEGIN buildApp POC_6_5_1559308133927
+[2019-05-31T13:08:53.927Z] debug: [twx-studio:upgrade:POC_6_5] write settings
+[2019-05-31T13:08:53.929Z] debug: [twx-studio:upgrade:POC_6_5] copy runtime extensions
+[2019-05-31T13:08:57.475Z] debug: [twx-studio:upgrade:POC_6_5] packageThemeSet
+[2019-05-31T13:08:58.989Z] debug: [twx-studio:upgrade:POC_6_5] onBuild
+[2019-05-31T13:08:58.990Z] info: [twx-studio:upgrade:POC_6_5] Building ves-ar-extension app: POC_6_5
+[2019-05-31T13:08:59.828Z] debug: [twx-studio:upgrade:POC_6_5] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_6_5
+[2019-05-31T13:08:59.828Z] debug: [twx-studio:upgrade:POC_6_5] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-05-31T13:08:59.829Z] debug: [twx-studio:upgrade:POC_6_5] copySrc
+[2019-05-31T13:09:02.678Z] debug: [twx-studio:upgrade:POC_6_5] buildApp
+[2019-05-31T13:09:07.442Z] debug: [twx-studio:upgrade:POC_6_5] END buildApp POC_6_5_1559308133927
+[2019-05-31T13:09:07.443Z] debug: [twx-studio:upgrade:POC_6_5] Build succeeded.
+
+2019-06-03T16:54:16.266Z: Project "POC_6_5" saved as new project "POC_7"[2019-06-03T16:54:18.002Z] debug: [twx-studio:upgrade:POC_7] Begin upgrade of project POC_7
+[2019-06-03T16:54:18.002Z] info: [twx-studio:upgrade:POC_7] Upgrading project POC_7 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_7 from 1.38.1553 to 8.4.3.4381 (1.38.1553)
+[2019-06-03T16:54:18.006Z] debug: [twx-studio:upgrade:POC_7] Make sure there are not any stale files lying around
+[2019-06-03T16:54:18.007Z] debug: [twx-studio:upgrade:POC_7] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_7/src/phone/resources/Default/
+[2019-06-03T16:54:18.019Z] debug: [twx-studio:upgrade:POC_7] Create .gitignore for project dir
+[2019-06-03T16:54:18.039Z] debug: [twx-studio:upgrade:POC_7] Copying /src/**/* to project, overwrite=false
+[2019-06-03T16:54:18.041Z] debug: [twx-studio:upgrade:POC_7] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-06-03T16:54:18.247Z] debug: [twx-studio:upgrade:POC_7] Copy of project files complete
+[2019-06-03T16:54:18.247Z] debug: [twx-studio:upgrade:POC_7] Updating version to  8.4.3.4381 (1.38.1553)
+[2019-06-03T16:54:18.248Z] debug: [twx-studio:upgrade:POC_7] onupgrade sucessful, now build the project
+[2019-06-03T16:54:18.248Z] debug: [twx-studio:upgrade:POC_7] BEGIN buildApp POC_7_1559580858248
+[2019-06-03T16:54:18.248Z] debug: [twx-studio:upgrade:POC_7] write settings
+[2019-06-03T16:54:18.249Z] debug: [twx-studio:upgrade:POC_7] copy runtime extensions
+[2019-06-03T16:54:20.620Z] debug: [twx-studio:upgrade:POC_7] packageThemeSet
+[2019-06-03T16:54:21.857Z] debug: [twx-studio:upgrade:POC_7] onBuild
+[2019-06-03T16:54:21.857Z] info: [twx-studio:upgrade:POC_7] Building ves-ar-extension app: POC_7
+[2019-06-03T16:54:22.016Z] debug: [twx-studio:upgrade:POC_7] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_7
+[2019-06-03T16:54:22.016Z] debug: [twx-studio:upgrade:POC_7] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-06-03T16:54:22.017Z] debug: [twx-studio:upgrade:POC_7] copySrc
+[2019-06-03T16:54:23.904Z] debug: [twx-studio:upgrade:POC_7] buildApp
+[2019-06-03T16:54:28.167Z] debug: [twx-studio:upgrade:POC_7] END buildApp POC_7_1559580858248
+[2019-06-03T16:54:28.167Z] debug: [twx-studio:upgrade:POC_7] Build succeeded.
+
+2019-06-04T13:40:39.466Z: Project "POC_7" saved as new project "POC_7_1"[2019-06-04T13:40:41.376Z] debug: [twx-studio:upgrade:POC_7_1] Begin upgrade of project POC_7_1
+[2019-06-04T13:40:41.376Z] info: [twx-studio:upgrade:POC_7_1] Upgrading project POC_7.1 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_7_1 from 1.38.1553 to 8.4.3.4381 (1.38.1553)
+[2019-06-04T13:40:41.414Z] debug: [twx-studio:upgrade:POC_7_1] Make sure there are not any stale files lying around
+[2019-06-04T13:40:41.415Z] debug: [twx-studio:upgrade:POC_7_1] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_7_1/src/phone/resources/Default/
+[2019-06-04T13:40:41.427Z] debug: [twx-studio:upgrade:POC_7_1] Create .gitignore for project dir
+[2019-06-04T13:40:41.429Z] debug: [twx-studio:upgrade:POC_7_1] Copying /src/**/* to project, overwrite=false
+[2019-06-04T13:40:41.430Z] debug: [twx-studio:upgrade:POC_7_1] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-06-04T13:40:41.858Z] debug: [twx-studio:upgrade:POC_7_1] Copy of project files complete
+[2019-06-04T13:40:41.858Z] debug: [twx-studio:upgrade:POC_7_1] Updating version to  8.4.3.4381 (1.38.1553)
+[2019-06-04T13:40:41.858Z] debug: [twx-studio:upgrade:POC_7_1] onupgrade sucessful, now build the project
+[2019-06-04T13:40:41.858Z] debug: [twx-studio:upgrade:POC_7_1] BEGIN buildApp POC_7_1_1559655641858
+[2019-06-04T13:40:41.858Z] debug: [twx-studio:upgrade:POC_7_1] write settings
+[2019-06-04T13:40:41.861Z] debug: [twx-studio:upgrade:POC_7_1] copy runtime extensions
+[2019-06-04T13:40:42.894Z] debug: [twx-studio:upgrade:POC_7_1] packageThemeSet
+[2019-06-04T13:40:44.177Z] debug: [twx-studio:upgrade:POC_7_1] onBuild
+[2019-06-04T13:40:44.177Z] info: [twx-studio:upgrade:POC_7_1] Building ves-ar-extension app: POC_7.1
+[2019-06-04T13:40:44.494Z] debug: [twx-studio:upgrade:POC_7_1] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_7_1
+[2019-06-04T13:40:44.494Z] debug: [twx-studio:upgrade:POC_7_1] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-06-04T13:40:44.494Z] debug: [twx-studio:upgrade:POC_7_1] copySrc
+[2019-06-04T13:40:46.299Z] debug: [twx-studio:upgrade:POC_7_1] buildApp
+[2019-06-04T13:40:49.803Z] debug: [twx-studio:upgrade:POC_7_1] END buildApp POC_7_1_1559655641858
+[2019-06-04T13:40:49.803Z] debug: [twx-studio:upgrade:POC_7_1] Build succeeded.
+
+2019-06-05T12:05:26.174Z: Project "POC_7_1" saved as new project "POC_7_2"[2019-06-05T12:05:30.711Z] debug: [twx-studio:upgrade:POC_7_2] Begin upgrade of project POC_7_2
+[2019-06-05T12:05:30.711Z] info: [twx-studio:upgrade:POC_7_2] Upgrading project POC_7.2 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_7_2 from 1.38.1553 to 8.4.3.4381 (1.38.1553)
+[2019-06-05T12:05:30.715Z] debug: [twx-studio:upgrade:POC_7_2] Make sure there are not any stale files lying around
+[2019-06-05T12:05:30.716Z] debug: [twx-studio:upgrade:POC_7_2] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_7_2/src/phone/resources/Default/
+[2019-06-05T12:05:30.727Z] debug: [twx-studio:upgrade:POC_7_2] Create .gitignore for project dir
+[2019-06-05T12:05:30.730Z] debug: [twx-studio:upgrade:POC_7_2] Copying /src/**/* to project, overwrite=false
+[2019-06-05T12:05:30.732Z] debug: [twx-studio:upgrade:POC_7_2] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-06-05T12:05:30.983Z] debug: [twx-studio:upgrade:POC_7_2] Copy of project files complete
+[2019-06-05T12:05:30.983Z] debug: [twx-studio:upgrade:POC_7_2] Updating version to  8.4.3.4381 (1.38.1553)
+[2019-06-05T12:05:30.984Z] debug: [twx-studio:upgrade:POC_7_2] onupgrade sucessful, now build the project
+[2019-06-05T12:05:30.984Z] debug: [twx-studio:upgrade:POC_7_2] BEGIN buildApp POC_7_2_1559736330984
+[2019-06-05T12:05:30.984Z] debug: [twx-studio:upgrade:POC_7_2] write settings
+[2019-06-05T12:05:30.986Z] debug: [twx-studio:upgrade:POC_7_2] copy runtime extensions
+[2019-06-05T12:05:31.987Z] debug: [twx-studio:upgrade:POC_7_2] packageThemeSet
+[2019-06-05T12:05:33.141Z] debug: [twx-studio:upgrade:POC_7_2] onBuild
+[2019-06-05T12:05:33.142Z] info: [twx-studio:upgrade:POC_7_2] Building ves-ar-extension app: POC_7.2
+[2019-06-05T12:05:33.153Z] debug: [twx-studio:upgrade:POC_7_2] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_7_2
+[2019-06-05T12:05:33.153Z] debug: [twx-studio:upgrade:POC_7_2] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-06-05T12:05:33.154Z] debug: [twx-studio:upgrade:POC_7_2] copySrc
+[2019-06-05T12:05:34.883Z] debug: [twx-studio:upgrade:POC_7_2] buildApp
+[2019-06-05T12:05:38.087Z] debug: [twx-studio:upgrade:POC_7_2] END buildApp POC_7_2_1559736330984
+[2019-06-05T12:05:38.087Z] debug: [twx-studio:upgrade:POC_7_2] Build succeeded.
+
+2019-06-05T12:26:01.047Z: Project "POC_7_2" saved as new project "POC_7_3"[2019-06-05T12:26:07.120Z] debug: [twx-studio:upgrade:POC_7_3] Begin upgrade of project POC_7_3
+[2019-06-05T12:26:07.121Z] info: [twx-studio:upgrade:POC_7_3] Upgrading project POC_7.3 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_7_3 from 1.38.1553 to 8.4.3.4381 (1.38.1553)
+[2019-06-05T12:26:07.124Z] debug: [twx-studio:upgrade:POC_7_3] Make sure there are not any stale files lying around
+[2019-06-05T12:26:07.124Z] debug: [twx-studio:upgrade:POC_7_3] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_7_3/src/phone/resources/Default/
+[2019-06-05T12:26:07.125Z] debug: [twx-studio:upgrade:POC_7_3] Create .gitignore for project dir
+[2019-06-05T12:26:07.130Z] debug: [twx-studio:upgrade:POC_7_3] Copying /src/**/* to project, overwrite=false
+[2019-06-05T12:26:07.131Z] debug: [twx-studio:upgrade:POC_7_3] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-06-05T12:26:07.373Z] debug: [twx-studio:upgrade:POC_7_3] Copy of project files complete
+[2019-06-05T12:26:07.373Z] debug: [twx-studio:upgrade:POC_7_3] Updating version to  8.4.3.4381 (1.38.1553)
+[2019-06-05T12:26:07.373Z] debug: [twx-studio:upgrade:POC_7_3] onupgrade sucessful, now build the project
+[2019-06-05T12:26:07.373Z] debug: [twx-studio:upgrade:POC_7_3] BEGIN buildApp POC_7_3_1559737567373
+[2019-06-05T12:26:07.374Z] debug: [twx-studio:upgrade:POC_7_3] write settings
+[2019-06-05T12:26:07.378Z] debug: [twx-studio:upgrade:POC_7_3] copy runtime extensions
+[2019-06-05T12:26:08.460Z] debug: [twx-studio:upgrade:POC_7_3] packageThemeSet
+[2019-06-05T12:26:09.882Z] debug: [twx-studio:upgrade:POC_7_3] onBuild
+[2019-06-05T12:26:09.882Z] info: [twx-studio:upgrade:POC_7_3] Building ves-ar-extension app: POC_7.3
+[2019-06-05T12:26:09.895Z] debug: [twx-studio:upgrade:POC_7_3] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_7_3
+[2019-06-05T12:26:09.895Z] debug: [twx-studio:upgrade:POC_7_3] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-06-05T12:26:09.895Z] debug: [twx-studio:upgrade:POC_7_3] copySrc
+[2019-06-05T12:26:11.529Z] debug: [twx-studio:upgrade:POC_7_3] buildApp
+[2019-06-05T12:26:16.232Z] debug: [twx-studio:upgrade:POC_7_3] END buildApp POC_7_3_1559737567373
+[2019-06-05T12:26:16.232Z] debug: [twx-studio:upgrade:POC_7_3] Build succeeded.
+[2019-06-06T12:38:44.065Z] debug: [twx-studio:upgrade:POC_7_3] Begin upgrade of project POC_7_3
+[2019-06-06T12:38:44.066Z] info: [twx-studio:upgrade:POC_7_3] Upgrading project POC_7_3 C:\Users\ezioc\Documents\VuforiaStudio\Projects\POC_7_3 from 1.38.1553 to 8.4.4.4392 (1.39.1560)
+[2019-06-06T12:38:44.069Z] debug: [twx-studio:upgrade:POC_7_3] Make sure there are not any stale files lying around
+[2019-06-06T12:38:44.069Z] debug: [twx-studio:upgrade:POC_7_3] Removing  C:\Users\ezioc\Documents\VuforiaStudio\Projects\POC_7_3/src/phone/resources/Default/
+[2019-06-06T12:38:44.079Z] debug: [twx-studio:upgrade:POC_7_3] Create .gitignore for project dir
+[2019-06-06T12:38:44.079Z] debug: [twx-studio:upgrade:POC_7_3] Copying /src/**/* to project, overwrite=false
+[2019-06-06T12:38:44.081Z] debug: [twx-studio:upgrade:POC_7_3] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-06-06T12:38:44.166Z] debug: [twx-studio:upgrade:POC_7_3] Copy of project files complete
+[2019-06-06T12:38:44.166Z] debug: [twx-studio:upgrade:POC_7_3] Updating version to  8.4.4.4392 (1.39.1560)
+[2019-06-06T12:38:44.166Z] debug: [twx-studio:upgrade:POC_7_3] onupgrade sucessful, now build the project
+[2019-06-06T12:38:44.166Z] debug: [twx-studio:upgrade:POC_7_3] BEGIN buildApp POC_7_3_1559824724166
+[2019-06-06T12:38:44.166Z] debug: [twx-studio:upgrade:POC_7_3] write settings
+[2019-06-06T12:38:44.167Z] debug: [twx-studio:upgrade:POC_7_3] copy runtime extensions
+[2019-06-06T12:38:44.428Z] debug: [twx-studio:upgrade:POC_7_3] packageThemeSet
+[2019-06-06T12:38:45.746Z] debug: [twx-studio:upgrade:POC_7_3] onBuild
+[2019-06-06T12:38:45.746Z] info: [twx-studio:upgrade:POC_7_3] Building ves-ar-extension app: POC_7_3
+[2019-06-06T12:38:45.757Z] debug: [twx-studio:upgrade:POC_7_3] pathDir C:\Users\ezioc\Documents\VuforiaStudio\Projects\POC_7_3
+[2019-06-06T12:38:45.757Z] debug: [twx-studio:upgrade:POC_7_3] scaffoldDir C:\Users\ezioc\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-06-06T12:38:45.757Z] debug: [twx-studio:upgrade:POC_7_3] copySrc
+[2019-06-06T12:38:46.706Z] debug: [twx-studio:upgrade:POC_7_3] buildApp
+[2019-06-06T12:38:49.157Z] debug: [twx-studio:upgrade:POC_7_3] END buildApp POC_7_3_1559824724166
+[2019-06-06T12:38:49.157Z] debug: [twx-studio:upgrade:POC_7_3] Build succeeded.
+
+2019-06-06T16:12:24.599Z: Project "POC_7_3" saved as new project "POC_7_3_1"[2019-06-06T16:51:02.637Z] debug: [twx-studio:upgrade:POC_7_3_1] Begin upgrade of project POC_7_3_1
+[2019-06-06T16:51:02.637Z] info: [twx-studio:upgrade:POC_7_3_1] Upgrading project POC_7_3_1 C:\Users\ezioc\Documents\VuforiaStudio\Projects\POC_7_3_1 from 1.39.1560 to 8.4.4.4392 (1.39.1560)
+[2019-06-06T16:51:02.640Z] debug: [twx-studio:upgrade:POC_7_3_1] Make sure there are not any stale files lying around
+[2019-06-06T16:51:02.641Z] debug: [twx-studio:upgrade:POC_7_3_1] Removing  C:\Users\ezioc\Documents\VuforiaStudio\Projects\POC_7_3_1/src/phone/resources/Default/
+[2019-06-06T16:51:02.654Z] debug: [twx-studio:upgrade:POC_7_3_1] Create .gitignore for project dir
+[2019-06-06T16:51:02.655Z] debug: [twx-studio:upgrade:POC_7_3_1] Copying /src/**/* to project, overwrite=false
+[2019-06-06T16:51:02.657Z] debug: [twx-studio:upgrade:POC_7_3_1] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-06-06T16:51:02.798Z] debug: [twx-studio:upgrade:POC_7_3_1] Copy of project files complete
+[2019-06-06T16:51:02.798Z] debug: [twx-studio:upgrade:POC_7_3_1] Updating version to  8.4.4.4392 (1.39.1560)
+[2019-06-06T16:51:02.798Z] debug: [twx-studio:upgrade:POC_7_3_1] onupgrade sucessful, now build the project
+[2019-06-06T16:51:02.798Z] debug: [twx-studio:upgrade:POC_7_3_1] BEGIN buildApp POC_7_3_1_1559839862798
+[2019-06-06T16:51:02.798Z] debug: [twx-studio:upgrade:POC_7_3_1] write settings
+[2019-06-06T16:51:02.799Z] debug: [twx-studio:upgrade:POC_7_3_1] copy runtime extensions
+[2019-06-06T16:51:03.009Z] debug: [twx-studio:upgrade:POC_7_3_1] packageThemeSet
+[2019-06-06T16:51:04.190Z] debug: [twx-studio:upgrade:POC_7_3_1] onBuild
+[2019-06-06T16:51:04.191Z] info: [twx-studio:upgrade:POC_7_3_1] Building ves-ar-extension app: POC_7_3_1
+[2019-06-06T16:51:04.203Z] debug: [twx-studio:upgrade:POC_7_3_1] pathDir C:\Users\ezioc\Documents\VuforiaStudio\Projects\POC_7_3_1
+[2019-06-06T16:51:04.203Z] debug: [twx-studio:upgrade:POC_7_3_1] scaffoldDir C:\Users\ezioc\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-06-06T16:51:04.204Z] debug: [twx-studio:upgrade:POC_7_3_1] copySrc
+[2019-06-06T16:51:05.731Z] debug: [twx-studio:upgrade:POC_7_3_1] buildApp
+[2019-06-06T16:51:07.905Z] debug: [twx-studio:upgrade:POC_7_3_1] END buildApp POC_7_3_1_1559839862798
+[2019-06-06T16:51:07.905Z] debug: [twx-studio:upgrade:POC_7_3_1] Build succeeded.
+[2019-06-06T19:00:01.122Z] debug: [twx-studio:upgrade:POC_7_3_1] Begin upgrade of project POC_7_3_1
+[2019-06-06T19:00:01.125Z] info: [twx-studio:upgrade:POC_7_3_1] Upgrading project POC_7_3_1 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_7_3_1 from 1.39.1560 to 8.4.3.4381 (1.38.1553)
+[2019-06-06T19:00:01.432Z] debug: [twx-studio:upgrade:POC_7_3_1] Make sure there are not any stale files lying around
+[2019-06-06T19:00:01.436Z] debug: [twx-studio:upgrade:POC_7_3_1] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_7_3_1/src/phone/resources/Default/
+[2019-06-06T19:00:01.562Z] debug: [twx-studio:upgrade:POC_7_3_1] Create .gitignore for project dir
+[2019-06-06T19:00:01.570Z] debug: [twx-studio:upgrade:POC_7_3_1] Copying /src/**/* to project, overwrite=false
+[2019-06-06T19:00:01.573Z] debug: [twx-studio:upgrade:POC_7_3_1] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-06-06T19:00:01.897Z] debug: [twx-studio:upgrade:POC_7_3_1] Copy of project files complete
+[2019-06-06T19:00:01.897Z] debug: [twx-studio:upgrade:POC_7_3_1] Updating version to  8.4.3.4381 (1.38.1553)
+[2019-06-06T19:00:01.897Z] debug: [twx-studio:upgrade:POC_7_3_1] onupgrade sucessful, now build the project
+[2019-06-06T19:00:01.897Z] debug: [twx-studio:upgrade:POC_7_3_1] BEGIN buildApp POC_7_3_1_1559847601897
+[2019-06-06T19:00:01.898Z] debug: [twx-studio:upgrade:POC_7_3_1] write settings
+[2019-06-06T19:00:01.904Z] debug: [twx-studio:upgrade:POC_7_3_1] copy runtime extensions
+[2019-06-06T19:00:03.316Z] debug: [twx-studio:upgrade:POC_7_3_1] packageThemeSet
+[2019-06-06T19:00:05.788Z] debug: [twx-studio:upgrade:POC_7_3_1] onBuild
+[2019-06-06T19:00:05.794Z] info: [twx-studio:upgrade:POC_7_3_1] Building ves-ar-extension app: POC_7_3_1
+[2019-06-06T19:00:06.308Z] debug: [twx-studio:upgrade:POC_7_3_1] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_7_3_1
+[2019-06-06T19:00:06.308Z] debug: [twx-studio:upgrade:POC_7_3_1] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-06-06T19:00:06.308Z] debug: [twx-studio:upgrade:POC_7_3_1] copySrc
+[2019-06-06T19:00:09.510Z] debug: [twx-studio:upgrade:POC_7_3_1] buildApp
+[2019-06-06T19:00:15.130Z] debug: [twx-studio:upgrade:POC_7_3_1] END buildApp POC_7_3_1_1559847601897
+[2019-06-06T19:00:15.131Z] debug: [twx-studio:upgrade:POC_7_3_1] Build succeeded.
+
+2019-06-07T13:22:52.000Z: Project "POC_7_3_1" saved as new project "POC_7_3_2"
+2019-06-07T13:24:05.000Z: Project "POC_7_3_2" saved as new project "POC_VALE_Instrucao_de_Operacao_7_3_2"[2019-06-07T13:44:10.927Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] Begin upgrade of project POC_VALE_Instrucao_de_Operacao_7_3_2
+[2019-06-07T13:44:10.928Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] Upgrading project POC_VALE_Instrucao_de_Operacao_7_3_2 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_3_2 from 1.38.1553 to 8.4.3.4381 (1.38.1553)
+[2019-06-07T13:44:10.933Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] Make sure there are not any stale files lying around
+[2019-06-07T13:44:10.934Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_3_2/src/phone/resources/Default/
+[2019-06-07T13:44:10.945Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] Create .gitignore for project dir
+[2019-06-07T13:44:10.964Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] Copying /src/**/* to project, overwrite=false
+[2019-06-07T13:44:10.966Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-06-07T13:44:11.167Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] Copy of project files complete
+[2019-06-07T13:44:11.167Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] Updating version to  8.4.3.4381 (1.38.1553)
+[2019-06-07T13:44:11.167Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] onupgrade sucessful, now build the project
+[2019-06-07T13:44:11.168Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] BEGIN buildApp POC_VALE_Instrucao_de_Operacao_7_3_2_1559915051168
+[2019-06-07T13:44:11.168Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] write settings
+[2019-06-07T13:44:11.170Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] copy runtime extensions
+[2019-06-07T13:44:12.173Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] packageThemeSet
+[2019-06-07T13:44:13.683Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] onBuild
+[2019-06-07T13:44:13.683Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] Building ves-ar-extension app: POC_VALE_Instrucao_de_Operacao_7_3_2
+[2019-06-07T13:44:13.695Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_3_2
+[2019-06-07T13:44:13.695Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-06-07T13:44:13.695Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] copySrc
+[2019-06-07T13:44:15.571Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] buildApp
+[2019-06-07T13:44:18.031Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] END buildApp POC_VALE_Instrucao_de_Operacao_7_3_2_1559915051168
+[2019-06-07T13:44:18.031Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] Build succeeded.
+[2019-06-08T12:42:48.584Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] Begin upgrade of project POC_VALE_Instrucao_de_Operacao_7_3_2
+[2019-06-08T12:42:48.584Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] Upgrading project POC_VALE_Instrucao_de_Operacao_7_3_2 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_3_2 from 1.38.1553 to 8.4.4.4392 (1.39.1560)
+[2019-06-08T12:42:48.590Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] Make sure there are not any stale files lying around
+[2019-06-08T12:42:48.591Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_3_2/src/phone/resources/Default/
+[2019-06-08T12:42:48.625Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] Create .gitignore for project dir
+[2019-06-08T12:42:48.627Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] Copying /src/**/* to project, overwrite=false
+[2019-06-08T12:42:48.630Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-06-08T12:42:48.911Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] Copy of project files complete
+[2019-06-08T12:42:48.912Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] Updating version to  8.4.4.4392 (1.39.1560)
+[2019-06-08T12:42:48.912Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] onupgrade sucessful, now build the project
+[2019-06-08T12:42:48.912Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] BEGIN buildApp POC_VALE_Instrucao_de_Operacao_7_3_2_1559997768912
+[2019-06-08T12:42:48.912Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] write settings
+[2019-06-08T12:42:48.917Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] copy runtime extensions
+[2019-06-08T12:42:49.675Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] packageThemeSet
+[2019-06-08T12:42:50.906Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] onBuild
+[2019-06-08T12:42:50.907Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] Building ves-ar-extension app: POC_VALE_Instrucao_de_Operacao_7_3_2
+[2019-06-08T12:42:50.966Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_3_2
+[2019-06-08T12:42:50.966Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-06-08T12:42:50.966Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] copySrc
+[2019-06-08T12:42:51.876Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] buildApp
+[2019-06-08T12:42:54.121Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] END buildApp POC_VALE_Instrucao_de_Operacao_7_3_2_1559997768912
+[2019-06-08T12:42:54.121Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_3_2] Build succeeded.
+
+2019-06-08T21:21:13.229Z: Project "POC_VALE_Instrucao_de_Operacao_7_3_2" saved as new project "POC_VALE_Instrucao_de_Operacao_7_4"[2019-06-08T21:21:23.245Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4] Begin upgrade of project POC_VALE_Instrucao_de_Operacao_7_4
+[2019-06-08T21:21:23.247Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4] Upgrading project POC_VALE_Instrucao_de_Operacao_7_4 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_4 from 1.39.1560 to 8.4.4.4392 (1.39.1560)
+[2019-06-08T21:21:23.485Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4] Make sure there are not any stale files lying around
+[2019-06-08T21:21:23.486Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_4/src/phone/resources/Default/
+[2019-06-08T21:21:23.512Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4] Create .gitignore for project dir
+[2019-06-08T21:21:23.515Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4] Copying /src/**/* to project, overwrite=false
+[2019-06-08T21:21:23.519Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-06-08T21:21:23.820Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4] Copy of project files complete
+[2019-06-08T21:21:23.820Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4] Updating version to  8.4.4.4392 (1.39.1560)
+[2019-06-08T21:21:23.821Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4] onupgrade sucessful, now build the project
+[2019-06-08T21:21:23.821Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4] BEGIN buildApp POC_VALE_Instrucao_de_Operacao_7_4_1560028883821
+[2019-06-08T21:21:23.821Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4] write settings
+[2019-06-08T21:21:23.823Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4] copy runtime extensions
+[2019-06-08T21:21:25.031Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4] packageThemeSet
+[2019-06-08T21:21:27.022Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4] onBuild
+[2019-06-08T21:21:27.023Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4] Building ves-ar-extension app: POC_VALE_Instrucao_de_Operacao_7_4
+[2019-06-08T21:21:27.413Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_4
+[2019-06-08T21:21:27.413Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-06-08T21:21:27.413Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4] copySrc
+[2019-06-08T21:21:29.049Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4] buildApp
+[2019-06-08T21:21:32.356Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4] END buildApp POC_VALE_Instrucao_de_Operacao_7_4_1560028883821
+[2019-06-08T21:21:32.357Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4] Build succeeded.
+
+2019-06-09T12:15:50.464Z: Project "POC_VALE_Instrucao_de_Operacao_7_4" saved as new project "POC_VALE_Instrucao_de_Operacao_7_4_1"[2019-06-09T12:15:56.304Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_1] Begin upgrade of project POC_VALE_Instrucao_de_Operacao_7_4_1
+[2019-06-09T12:15:56.309Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_1] Upgrading project POC_VALE_Instrucao_de_Operacao_7_4.1 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_4_1 from 1.39.1560 to 8.4.4.4392 (1.39.1560)
+[2019-06-09T12:15:56.664Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_1] Make sure there are not any stale files lying around
+[2019-06-09T12:15:56.664Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_1] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_4_1/src/phone/resources/Default/
+[2019-06-09T12:15:56.688Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_1] Create .gitignore for project dir
+[2019-06-09T12:15:56.695Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_1] Copying /src/**/* to project, overwrite=false
+[2019-06-09T12:15:56.697Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_1] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-06-09T12:15:57.244Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_1] Copy of project files complete
+[2019-06-09T12:15:57.245Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_1] Updating version to  8.4.4.4392 (1.39.1560)
+[2019-06-09T12:15:57.245Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_1] onupgrade sucessful, now build the project
+[2019-06-09T12:15:57.245Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_1] BEGIN buildApp POC_VALE_Instrucao_de_Operacao_7_4_1_1560082557245
+[2019-06-09T12:15:57.245Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_1] write settings
+[2019-06-09T12:15:57.247Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_1] copy runtime extensions
+[2019-06-09T12:15:58.241Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_1] packageThemeSet
+[2019-06-09T12:16:00.100Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_1] onBuild
+[2019-06-09T12:16:00.100Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_1] Building ves-ar-extension app: POC_VALE_Instrucao_de_Operacao_7_4.1
+[2019-06-09T12:16:00.425Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_1] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_4_1
+[2019-06-09T12:16:00.426Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_1] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-06-09T12:16:00.426Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_1] copySrc
+[2019-06-09T12:16:01.759Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_1] buildApp
+[2019-06-09T12:16:05.862Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_1] END buildApp POC_VALE_Instrucao_de_Operacao_7_4_1_1560082557245
+[2019-06-09T12:16:05.863Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_1] Build succeeded.
+
+2019-06-09T13:43:25.247Z: Project "POC_VALE_Instrucao_de_Operacao_7_4_1" saved as new project "POC_VALE_Instrucao_de_Operacao_7_4_2"[2019-06-09T13:43:31.211Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_2] Begin upgrade of project POC_VALE_Instrucao_de_Operacao_7_4_2
+[2019-06-09T13:43:31.211Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_2] Upgrading project POC_VALE_Instrucao_de_Operacao_7_4.2 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_4_2 from 1.39.1560 to 8.4.4.4392 (1.39.1560)
+[2019-06-09T13:43:31.220Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_2] Make sure there are not any stale files lying around
+[2019-06-09T13:43:31.221Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_2] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_4_2/src/phone/resources/Default/
+[2019-06-09T13:43:31.248Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_2] Create .gitignore for project dir
+[2019-06-09T13:43:31.255Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_2] Copying /src/**/* to project, overwrite=false
+[2019-06-09T13:43:31.259Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_2] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-06-09T13:43:31.833Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_2] Copy of project files complete
+[2019-06-09T13:43:31.833Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_2] Updating version to  8.4.4.4392 (1.39.1560)
+[2019-06-09T13:43:31.833Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_2] onupgrade sucessful, now build the project
+[2019-06-09T13:43:31.833Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_2] BEGIN buildApp POC_VALE_Instrucao_de_Operacao_7_4_2_1560087811833
+[2019-06-09T13:43:31.833Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_2] write settings
+[2019-06-09T13:43:31.837Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_2] copy runtime extensions
+[2019-06-09T13:43:33.109Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_2] packageThemeSet
+[2019-06-09T13:43:34.802Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_2] onBuild
+[2019-06-09T13:43:34.802Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_2] Building ves-ar-extension app: POC_VALE_Instrucao_de_Operacao_7_4.2
+[2019-06-09T13:43:34.930Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_2] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_4_2
+[2019-06-09T13:43:34.930Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_2] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-06-09T13:43:34.930Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_2] copySrc
+[2019-06-09T13:43:36.009Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_2] buildApp
+[2019-06-09T13:43:38.577Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_2] END buildApp POC_VALE_Instrucao_de_Operacao_7_4_2_1560087811833
+[2019-06-09T13:43:38.577Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_2] Build succeeded.
+
+2019-06-09T15:28:28.966Z: Project "POC_VALE_Instrucao_de_Operacao_7_4_2" saved as new project "POC_VALE_Instrucao_de_Operacao_7_4_3"[2019-06-09T15:29:37.169Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] Begin upgrade of project POC_VALE_Instrucao_de_Operacao_7_4_3
+[2019-06-09T15:29:37.170Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] Upgrading project POC_VALE_Instrucao_de_Operacao_7_4.3 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_4_3 from 1.39.1560 to 8.4.4.4392 (1.39.1560)
+[2019-06-09T15:29:37.174Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] Make sure there are not any stale files lying around
+[2019-06-09T15:29:37.175Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_4_3/src/phone/resources/Default/
+[2019-06-09T15:29:37.197Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] Create .gitignore for project dir
+[2019-06-09T15:29:37.202Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] Copying /src/**/* to project, overwrite=false
+[2019-06-09T15:29:37.206Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-06-09T15:29:37.522Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] Copy of project files complete
+[2019-06-09T15:29:37.522Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] Updating version to  8.4.4.4392 (1.39.1560)
+[2019-06-09T15:29:37.522Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] onupgrade sucessful, now build the project
+[2019-06-09T15:29:37.522Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] BEGIN buildApp POC_VALE_Instrucao_de_Operacao_7_4_3_1560094177522
+[2019-06-09T15:29:37.522Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] write settings
+[2019-06-09T15:29:37.524Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] copy runtime extensions
+[2019-06-09T15:29:38.482Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] packageThemeSet
+[2019-06-09T15:29:39.974Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] onBuild
+[2019-06-09T15:29:39.974Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] Building ves-ar-extension app: POC_VALE_Instrucao_de_Operacao_7_4.3
+[2019-06-09T15:29:40.036Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_4_3
+[2019-06-09T15:29:40.036Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-06-09T15:29:40.037Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] copySrc
+[2019-06-09T15:29:41.078Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] buildApp
+[2019-06-09T15:29:43.497Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] END buildApp POC_VALE_Instrucao_de_Operacao_7_4_3_1560094177522
+[2019-06-09T15:29:43.497Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] Build succeeded.
+[2019-06-10T11:37:16.106Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] Begin upgrade of project POC_VALE_Instrucao_de_Operacao_7_4_3
+[2019-06-10T11:37:16.107Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] Upgrading project POC_VALE_Instrucao_de_Operacao_7_4_3 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_4_3 from 1.39.1560 to 8.4.3.4381 (1.38.1553)
+[2019-06-10T11:37:16.111Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] Make sure there are not any stale files lying around
+[2019-06-10T11:37:16.112Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_4_3/src/phone/resources/Default/
+[2019-06-10T11:37:16.122Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] Create .gitignore for project dir
+[2019-06-10T11:37:16.125Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] Copying /src/**/* to project, overwrite=false
+[2019-06-10T11:37:16.126Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-06-10T11:37:16.374Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] Copy of project files complete
+[2019-06-10T11:37:16.374Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] Updating version to  8.4.3.4381 (1.38.1553)
+[2019-06-10T11:37:16.375Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] onupgrade sucessful, now build the project
+[2019-06-10T11:37:16.375Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] BEGIN buildApp POC_VALE_Instrucao_de_Operacao_7_4_3_1560166636375
+[2019-06-10T11:37:16.375Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] write settings
+[2019-06-10T11:37:16.381Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] copy runtime extensions
+[2019-06-10T11:37:17.308Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] packageThemeSet
+[2019-06-10T11:37:18.446Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] onBuild
+[2019-06-10T11:37:18.447Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] Building ves-ar-extension app: POC_VALE_Instrucao_de_Operacao_7_4_3
+[2019-06-10T11:37:18.457Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_4_3
+[2019-06-10T11:37:18.458Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-06-10T11:37:18.458Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] copySrc
+[2019-06-10T11:37:19.722Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] buildApp
+[2019-06-10T11:37:21.853Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] END buildApp POC_VALE_Instrucao_de_Operacao_7_4_3_1560166636375
+[2019-06-10T11:37:21.853Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_3] Build succeeded.
+
+2019-06-10T12:30:00.381Z: Project "POC_VALE_Instrucao_de_Operacao_7_4_3" saved as new project "POC_VALE_Instrucao_de_Operacao_7_4_4"[2019-06-10T12:30:09.155Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4] Begin upgrade of project POC_VALE_Instrucao_de_Operacao_7_4_4
+[2019-06-10T12:30:09.156Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4] Upgrading project POC_VALE_Instrucao_de_Operacao_7_4_4 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_4_4 from 1.38.1553 to 8.4.3.4381 (1.38.1553)
+[2019-06-10T12:30:09.159Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4] Make sure there are not any stale files lying around
+[2019-06-10T12:30:09.159Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_4_4/src/phone/resources/Default/
+[2019-06-10T12:30:09.169Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4] Create .gitignore for project dir
+[2019-06-10T12:30:09.172Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4] Copying /src/**/* to project, overwrite=false
+[2019-06-10T12:30:09.174Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-06-10T12:30:09.398Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4] Copy of project files complete
+[2019-06-10T12:30:09.398Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4] Updating version to  8.4.3.4381 (1.38.1553)
+[2019-06-10T12:30:09.398Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4] onupgrade sucessful, now build the project
+[2019-06-10T12:30:09.398Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4] BEGIN buildApp POC_VALE_Instrucao_de_Operacao_7_4_4_1560169809398
+[2019-06-10T12:30:09.398Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4] write settings
+[2019-06-10T12:30:09.400Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4] copy runtime extensions
+[2019-06-10T12:30:10.344Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4] packageThemeSet
+[2019-06-10T12:30:11.558Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4] onBuild
+[2019-06-10T12:30:11.559Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4] Building ves-ar-extension app: POC_VALE_Instrucao_de_Operacao_7_4_4
+[2019-06-10T12:30:11.570Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_4_4
+[2019-06-10T12:30:11.570Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-06-10T12:30:11.570Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4] copySrc
+[2019-06-10T12:30:12.878Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4] buildApp
+[2019-06-10T12:30:15.027Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4] END buildApp POC_VALE_Instrucao_de_Operacao_7_4_4_1560169809398
+[2019-06-10T12:30:15.027Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4] Build succeeded.
+
+2019-06-10T13:43:04.841Z: Project "POC_VALE_Instrucao_de_Operacao_7_4_4" saved as new project "POC_VALE_Instrucao_de_Operacao_7_4_5"
+2019-06-10T13:43:22.394Z: Project "POC_VALE_Instrucao_de_Operacao_7_4_5" saved as new project "POC_VALE_Instrucao_de_Operacao_7_4_4_1"[2019-06-10T13:43:30.195Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4_1] Begin upgrade of project POC_VALE_Instrucao_de_Operacao_7_4_4_1
+[2019-06-10T13:43:30.196Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4_1] Upgrading project POC_VALE_Instrucao_de_Operacao_7_4_4.1 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_4_4_1 from 1.38.1553 to 8.4.3.4381 (1.38.1553)
+[2019-06-10T13:43:30.199Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4_1] Make sure there are not any stale files lying around
+[2019-06-10T13:43:30.200Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4_1] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_4_4_1/src/phone/resources/Default/
+[2019-06-10T13:43:30.211Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4_1] Create .gitignore for project dir
+[2019-06-10T13:43:30.215Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4_1] Copying /src/**/* to project, overwrite=false
+[2019-06-10T13:43:30.216Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4_1] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-06-10T13:43:30.561Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4_1] Copy of project files complete
+[2019-06-10T13:43:30.561Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4_1] Updating version to  8.4.3.4381 (1.38.1553)
+[2019-06-10T13:43:30.562Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4_1] onupgrade sucessful, now build the project
+[2019-06-10T13:43:30.562Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4_1] BEGIN buildApp POC_VALE_Instrucao_de_Operacao_7_4_4_1_1560174210562
+[2019-06-10T13:43:30.562Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4_1] write settings
+[2019-06-10T13:43:30.564Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4_1] copy runtime extensions
+[2019-06-10T13:43:32.001Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4_1] packageThemeSet
+[2019-06-10T13:43:34.116Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4_1] onBuild
+[2019-06-10T13:43:34.117Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4_1] Building ves-ar-extension app: POC_VALE_Instrucao_de_Operacao_7_4_4.1
+[2019-06-10T13:43:34.134Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4_1] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_4_4_1
+[2019-06-10T13:43:34.134Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4_1] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-06-10T13:43:34.134Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4_1] copySrc
+[2019-06-10T13:43:36.441Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4_1] buildApp
+[2019-06-10T13:43:39.501Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4_1] END buildApp POC_VALE_Instrucao_de_Operacao_7_4_4_1_1560174210562
+[2019-06-10T13:43:39.501Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_4_1] Build succeeded.
+
+2019-06-10T14:23:59.723Z: Project "POC_VALE_Instrucao_de_Operacao_7_4_4_1" saved as new project "POC_VALE_Instrucao_de_Operacao_7_4_5"[2019-06-10T14:24:23.345Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_5] Begin upgrade of project POC_VALE_Instrucao_de_Operacao_7_4_5
+[2019-06-10T14:24:23.345Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_5] Upgrading project POC_VALE_Instrucao_de_Operacao_7_4_5 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_4_5 from 1.38.1553 to 8.4.3.4381 (1.38.1553)
+[2019-06-10T14:24:23.348Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_5] Make sure there are not any stale files lying around
+[2019-06-10T14:24:23.349Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_5] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_4_5/src/phone/resources/Default/
+[2019-06-10T14:24:23.359Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_5] Create .gitignore for project dir
+[2019-06-10T14:24:23.415Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_5] Copying /src/**/* to project, overwrite=false
+[2019-06-10T14:24:23.416Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_5] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-06-10T14:24:23.997Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_5] Copy of project files complete
+[2019-06-10T14:24:23.997Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_5] Updating version to  8.4.3.4381 (1.38.1553)
+[2019-06-10T14:24:23.997Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_5] onupgrade sucessful, now build the project
+[2019-06-10T14:24:23.997Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_5] BEGIN buildApp POC_VALE_Instrucao_de_Operacao_7_4_5_1560176663997
+[2019-06-10T14:24:23.997Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_5] write settings
+[2019-06-10T14:24:24.006Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_5] copy runtime extensions
+[2019-06-10T14:24:25.713Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_5] packageThemeSet
+[2019-06-10T14:24:27.161Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_5] onBuild
+[2019-06-10T14:24:27.162Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_5] Building ves-ar-extension app: POC_VALE_Instrucao_de_Operacao_7_4_5
+[2019-06-10T14:24:27.175Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_5] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_4_5
+[2019-06-10T14:24:27.175Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_5] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-06-10T14:24:27.175Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_5] copySrc
+[2019-06-10T14:24:29.000Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_5] buildApp
+[2019-06-10T14:24:31.602Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_5] END buildApp POC_VALE_Instrucao_de_Operacao_7_4_5_1560176663997
+[2019-06-10T14:24:31.603Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_5] Build succeeded.
+
+2019-06-10T14:45:22.154Z: Project "POC_VALE_Instrucao_de_Operacao_7_4_5" saved as new project "POC_VALE_Instrucao_de_Operacao_7_4_6"[2019-06-10T14:45:26.318Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_6] Begin upgrade of project POC_VALE_Instrucao_de_Operacao_7_4_6
+[2019-06-10T14:45:26.318Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_6] Upgrading project POC_VALE_Instrucao_de_Operacao_7_4_6 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_4_6 from 1.38.1553 to 8.4.3.4381 (1.38.1553)
+[2019-06-10T14:45:26.321Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_6] Make sure there are not any stale files lying around
+[2019-06-10T14:45:26.322Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_6] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_4_6/src/phone/resources/Default/
+[2019-06-10T14:45:26.337Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_6] Create .gitignore for project dir
+[2019-06-10T14:45:26.350Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_6] Copying /src/**/* to project, overwrite=false
+[2019-06-10T14:45:26.351Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_6] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-06-10T14:45:26.691Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_6] Copy of project files complete
+[2019-06-10T14:45:26.692Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_6] Updating version to  8.4.3.4381 (1.38.1553)
+[2019-06-10T14:45:26.692Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_6] onupgrade sucessful, now build the project
+[2019-06-10T14:45:26.692Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_6] BEGIN buildApp POC_VALE_Instrucao_de_Operacao_7_4_6_1560177926692
+[2019-06-10T14:45:26.692Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_6] write settings
+[2019-06-10T14:45:26.694Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_6] copy runtime extensions
+[2019-06-10T14:45:28.442Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_6] packageThemeSet
+[2019-06-10T14:45:31.654Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_6] onBuild
+[2019-06-10T14:45:31.655Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_6] Building ves-ar-extension app: POC_VALE_Instrucao_de_Operacao_7_4_6
+[2019-06-10T14:45:31.677Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_6] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_4_6
+[2019-06-10T14:45:31.677Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_6] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-06-10T14:45:31.677Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_6] copySrc
+[2019-06-10T14:45:34.034Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_6] buildApp
+[2019-06-10T14:45:37.107Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_6] END buildApp POC_VALE_Instrucao_de_Operacao_7_4_6_1560177926692
+[2019-06-10T14:45:37.108Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_4_6] Build succeeded.
+
+2019-06-10T17:11:10.547Z: Project "POC_VALE_Instrucao_de_Operacao_7_4_6" saved as new project "POC_VALE_Instrucao_de_Operacao_teste"[2019-06-10T17:11:12.006Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_teste] Begin upgrade of project POC_VALE_Instrucao_de_Operacao_teste
+[2019-06-10T17:11:12.006Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_teste] Upgrading project POC_VALE_Instrucao_de_Operacao_teste C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_teste from 1.38.1553 to 8.4.3.4381 (1.38.1553)
+[2019-06-10T17:11:12.009Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_teste] Make sure there are not any stale files lying around
+[2019-06-10T17:11:12.010Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_teste] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_teste/src/phone/resources/Default/
+[2019-06-10T17:11:12.020Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_teste] Create .gitignore for project dir
+[2019-06-10T17:11:12.022Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_teste] Copying /src/**/* to project, overwrite=false
+[2019-06-10T17:11:12.024Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_teste] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-06-10T17:11:12.276Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_teste] Copy of project files complete
+[2019-06-10T17:11:12.276Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_teste] Updating version to  8.4.3.4381 (1.38.1553)
+[2019-06-10T17:11:12.276Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_teste] onupgrade sucessful, now build the project
+[2019-06-10T17:11:12.276Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_teste] BEGIN buildApp POC_VALE_Instrucao_de_Operacao_teste_1560186672276
+[2019-06-10T17:11:12.276Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_teste] write settings
+[2019-06-10T17:11:12.279Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_teste] copy runtime extensions
+[2019-06-10T17:11:13.875Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_teste] packageThemeSet
+[2019-06-10T17:11:15.473Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_teste] onBuild
+[2019-06-10T17:11:15.473Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_teste] Building ves-ar-extension app: POC_VALE_Instrucao_de_Operacao_teste
+[2019-06-10T17:11:15.488Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_teste] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_teste
+[2019-06-10T17:11:15.488Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_teste] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-06-10T17:11:15.488Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_teste] copySrc
+[2019-06-10T17:11:17.241Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_teste] buildApp
+[2019-06-10T17:11:19.903Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_teste] END buildApp POC_VALE_Instrucao_de_Operacao_teste_1560186672276
+[2019-06-10T17:11:19.903Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_teste] Build succeeded.
+
+2019-06-10T20:16:58.711Z: Project "POC_VALE_Instrucao_de_Operacao_teste" saved as new project "POC_VALE_Instrucao_de_Operacao_7_5"[2019-06-10T20:17:40.513Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5] Begin upgrade of project POC_VALE_Instrucao_de_Operacao_7_5
+[2019-06-10T20:17:40.514Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5] Upgrading project POC_VALE_Instrucao_de_Operacao_7_5 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_5 from 1.38.1553 to 8.4.3.4381 (1.38.1553)
+[2019-06-10T20:17:40.517Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5] Make sure there are not any stale files lying around
+[2019-06-10T20:17:40.518Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_5/src/phone/resources/Default/
+[2019-06-10T20:17:40.542Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5] Create .gitignore for project dir
+[2019-06-10T20:17:40.553Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5] Copying /src/**/* to project, overwrite=false
+[2019-06-10T20:17:40.555Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-06-10T20:17:40.993Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5] Copy of project files complete
+[2019-06-10T20:17:40.993Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5] Updating version to  8.4.3.4381 (1.38.1553)
+[2019-06-10T20:17:40.993Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5] onupgrade sucessful, now build the project
+[2019-06-10T20:17:40.993Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5] BEGIN buildApp POC_VALE_Instrucao_de_Operacao_7_5_1560197860993
+[2019-06-10T20:17:40.993Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5] write settings
+[2019-06-10T20:17:40.997Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5] copy runtime extensions
+[2019-06-10T20:17:42.309Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5] packageThemeSet
+[2019-06-10T20:17:43.741Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5] onBuild
+[2019-06-10T20:17:43.741Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5] Building ves-ar-extension app: POC_VALE_Instrucao_de_Operacao_7_5
+[2019-06-10T20:17:43.765Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_5
+[2019-06-10T20:17:43.765Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-06-10T20:17:43.765Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5] copySrc
+[2019-06-10T20:17:45.355Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5] buildApp
+[2019-06-10T20:17:47.947Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5] END buildApp POC_VALE_Instrucao_de_Operacao_7_5_1560197860993
+[2019-06-10T20:17:47.947Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5] Build succeeded.
+
+2019-06-10T20:42:34.971Z: Project "POC_VALE_Instrucao_de_Operacao_7_5" saved as new project "POC_VALE_Instrucao_de_Operacao_7_5_TM"[2019-06-10T21:03:00.436Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_TM] Begin upgrade of project POC_VALE_Instrucao_de_Operacao_7_5_TM
+[2019-06-10T21:03:00.437Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_TM] Upgrading project POC_VALE_Instrucao_de_Operacao_7_5_TM C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_5_TM from 1.38.1553 to 8.4.3.4381 (1.38.1553)
+[2019-06-10T21:03:00.439Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_TM] Make sure there are not any stale files lying around
+[2019-06-10T21:03:00.440Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_TM] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_5_TM/src/phone/resources/Default/
+[2019-06-10T21:03:00.450Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_TM] Create .gitignore for project dir
+[2019-06-10T21:03:00.455Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_TM] Copying /src/**/* to project, overwrite=false
+[2019-06-10T21:03:00.457Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_TM] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-06-10T21:03:00.780Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_TM] Copy of project files complete
+[2019-06-10T21:03:00.780Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_TM] Updating version to  8.4.3.4381 (1.38.1553)
+[2019-06-10T21:03:00.780Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_TM] onupgrade sucessful, now build the project
+[2019-06-10T21:03:00.780Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_TM] BEGIN buildApp POC_VALE_Instrucao_de_Operacao_7_5_TM_1560200580780
+[2019-06-10T21:03:00.781Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_TM] write settings
+[2019-06-10T21:03:00.783Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_TM] copy runtime extensions
+[2019-06-10T21:03:01.854Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_TM] packageThemeSet
+[2019-06-10T21:03:03.220Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_TM] onBuild
+[2019-06-10T21:03:03.220Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_TM] Building ves-ar-extension app: POC_VALE_Instrucao_de_Operacao_7_5_TM
+[2019-06-10T21:03:03.233Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_TM] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_5_TM
+[2019-06-10T21:03:03.233Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_TM] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-06-10T21:03:03.233Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_TM] copySrc
+[2019-06-10T21:03:05.254Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_TM] buildApp
+[2019-06-10T21:03:08.367Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_TM] END buildApp POC_VALE_Instrucao_de_Operacao_7_5_TM_1560200580780
+[2019-06-10T21:03:08.367Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_TM] Build succeeded.
+
+2019-06-11T13:18:43.085Z: Project "POC_VALE_Instrucao_de_Operacao_7_5_TM" saved as new project "POC_VALE_Instrucao_de_Operacao_7_5_1"[2019-06-11T18:23:49.464Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_1] Begin upgrade of project POC_VALE_Instrucao_de_Operacao_7_5_1
+[2019-06-11T18:23:49.464Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_1] Upgrading project POC_VALE_Instrucao_de_Operacao_7_5.1 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_5_1 from 1.38.1553 to 8.4.4.4392 (1.39.1560)
+[2019-06-11T18:23:49.467Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_1] Make sure there are not any stale files lying around
+[2019-06-11T18:23:49.468Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_1] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_5_1/src/phone/resources/Default/
+[2019-06-11T18:23:49.478Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_1] Create .gitignore for project dir
+[2019-06-11T18:23:49.503Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_1] Copying /src/**/* to project, overwrite=false
+[2019-06-11T18:23:49.504Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_1] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-06-11T18:23:49.854Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_1] Copy of project files complete
+[2019-06-11T18:23:49.854Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_1] Updating version to  8.4.4.4392 (1.39.1560)
+[2019-06-11T18:23:49.854Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_1] onupgrade sucessful, now build the project
+[2019-06-11T18:23:49.854Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_1] BEGIN buildApp POC_VALE_Instrucao_de_Operacao_7_5_1_1560277429854
+[2019-06-11T18:23:49.854Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_1] write settings
+[2019-06-11T18:23:49.862Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_1] copy runtime extensions
+[2019-06-11T18:23:51.604Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_1] packageThemeSet
+[2019-06-11T18:23:53.455Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_1] onBuild
+[2019-06-11T18:23:53.455Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_1] Building ves-ar-extension app: POC_VALE_Instrucao_de_Operacao_7_5.1
+[2019-06-11T18:23:53.506Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_1] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_5_1
+[2019-06-11T18:23:53.506Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_1] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-06-11T18:23:53.506Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_1] copySrc
+[2019-06-11T18:23:56.243Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_1] buildApp
+[2019-06-11T18:23:59.498Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_1] END buildApp POC_VALE_Instrucao_de_Operacao_7_5_1_1560277429854
+[2019-06-11T18:23:59.501Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_5_1] Build succeeded.
+
+2019-06-13T18:53:11.432Z: Project "POC_VALE_Instrucao_de_Operacao_7_5_1" saved as new project "POC_VALE_Instrucao_de_Operacao_7_6_1"[2019-06-13T18:53:18.371Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_1] Begin upgrade of project POC_VALE_Instrucao_de_Operacao_7_6_1
+[2019-06-13T18:53:18.373Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_1] Upgrading project POC_VALE_Instrucao_de_Operacao_7_6.1 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_6_1 from 1.39.1560 to 8.4.4.4392 (1.39.1560)
+[2019-06-13T18:53:18.690Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_1] Make sure there are not any stale files lying around
+[2019-06-13T18:53:18.691Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_1] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_6_1/src/phone/resources/Default/
+[2019-06-13T18:53:18.726Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_1] Create .gitignore for project dir
+[2019-06-13T18:53:18.731Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_1] Copying /src/**/* to project, overwrite=false
+[2019-06-13T18:53:18.733Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_1] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-06-13T18:53:19.115Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_1] Copy of project files complete
+[2019-06-13T18:53:19.115Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_1] Updating version to  8.4.4.4392 (1.39.1560)
+[2019-06-13T18:53:19.115Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_1] onupgrade sucessful, now build the project
+[2019-06-13T18:53:19.115Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_1] BEGIN buildApp POC_VALE_Instrucao_de_Operacao_7_6_1_1560451999115
+[2019-06-13T18:53:19.115Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_1] write settings
+[2019-06-13T18:53:19.117Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_1] copy runtime extensions
+[2019-06-13T18:53:20.109Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_1] packageThemeSet
+[2019-06-13T18:53:21.297Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_1] onBuild
+[2019-06-13T18:53:21.297Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_1] Building ves-ar-extension app: POC_VALE_Instrucao_de_Operacao_7_6.1
+[2019-06-13T18:53:21.298Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_1] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_6_1
+[2019-06-13T18:53:21.298Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_1] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-06-13T18:53:21.298Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_1] copySrc
+[2019-06-13T18:53:22.643Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_1] buildApp
+[2019-06-13T18:53:24.997Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_1] END buildApp POC_VALE_Instrucao_de_Operacao_7_6_1_1560451999115
+[2019-06-13T18:53:24.997Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_1] Build succeeded.
+
+2019-06-17T13:07:28.824Z: Project "POC_VALE_Instrucao_de_Operacao_7_6_1" saved as new project "POC_VALE_Instrucao_de_Operacao_7_6_2"[2019-06-17T13:07:30.037Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] Begin upgrade of project POC_VALE_Instrucao_de_Operacao_7_6_2
+[2019-06-17T13:07:30.037Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] Upgrading project POC_VALE_Instrucao_de_Operacao_7_6.2 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_6_2 from 1.39.1560 to 8.4.4.4392 (1.39.1560)
+[2019-06-17T13:07:30.040Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] Make sure there are not any stale files lying around
+[2019-06-17T13:07:30.041Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_6_2/src/phone/resources/Default/
+[2019-06-17T13:07:30.051Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] Create .gitignore for project dir
+[2019-06-17T13:07:30.053Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] Copying /src/**/* to project, overwrite=false
+[2019-06-17T13:07:30.055Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-06-17T13:07:30.491Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] Copy of project files complete
+[2019-06-17T13:07:30.491Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] Updating version to  8.4.4.4392 (1.39.1560)
+[2019-06-17T13:07:30.491Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] onupgrade sucessful, now build the project
+[2019-06-17T13:07:30.491Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] BEGIN buildApp POC_VALE_Instrucao_de_Operacao_7_6_2_1560776850491
+[2019-06-17T13:07:30.491Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] write settings
+[2019-06-17T13:07:30.494Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] copy runtime extensions
+[2019-06-17T13:07:31.453Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] packageThemeSet
+[2019-06-17T13:07:32.744Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] onBuild
+[2019-06-17T13:07:32.744Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] Building ves-ar-extension app: POC_VALE_Instrucao_de_Operacao_7_6.2
+[2019-06-17T13:07:32.758Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_6_2
+[2019-06-17T13:07:32.758Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-06-17T13:07:32.759Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] copySrc
+[2019-06-17T13:07:34.691Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] buildApp
+[2019-06-17T13:07:37.838Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] END buildApp POC_VALE_Instrucao_de_Operacao_7_6_2_1560776850491
+[2019-06-17T13:07:37.838Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] Build succeeded.
+[2019-06-18T11:50:15.633Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] Begin upgrade of project POC_VALE_Instrucao_de_Operacao_7_6_2
+[2019-06-18T11:50:15.634Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] Upgrading project POC_VALE_Instrucao_de_Operacao_7_6_2 C:\Users\Samuel Rodrigues\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_6_2 from 1.39.1560 to 8.4.4.4392 (1.39.1560)
+[2019-06-18T11:50:15.636Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] Make sure there are not any stale files lying around
+[2019-06-18T11:50:15.636Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] Removing  C:\Users\Samuel Rodrigues\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_6_2/src/phone/resources/Default/
+[2019-06-18T11:50:15.648Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] Create .gitignore for project dir
+[2019-06-18T11:50:15.650Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] Copying /src/**/* to project, overwrite=false
+[2019-06-18T11:50:15.652Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-06-18T11:50:15.802Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] Copy of project files complete
+[2019-06-18T11:50:15.802Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] Updating version to  8.4.4.4392 (1.39.1560)
+[2019-06-18T11:50:15.802Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] onupgrade sucessful, now build the project
+[2019-06-18T11:50:15.802Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] BEGIN buildApp POC_VALE_Instrucao_de_Operacao_7_6_2_1560858615802
+[2019-06-18T11:50:15.802Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] write settings
+[2019-06-18T11:50:15.805Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] copy runtime extensions
+[2019-06-18T11:50:16.583Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] packageThemeSet
+[2019-06-18T11:50:17.579Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] onBuild
+[2019-06-18T11:50:17.579Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] Building ves-ar-extension app: POC_VALE_Instrucao_de_Operacao_7_6_2
+[2019-06-18T11:50:17.587Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] pathDir C:\Users\Samuel Rodrigues\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_6_2
+[2019-06-18T11:50:17.587Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] scaffoldDir C:\Users\Samuel Rodrigues\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-06-18T11:50:17.587Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] copySrc
+[2019-06-18T11:50:18.607Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] buildApp
+[2019-06-18T11:50:20.760Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] END buildApp POC_VALE_Instrucao_de_Operacao_7_6_2_1560858615802
+[2019-06-18T11:50:20.760Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_2] Build succeeded.
+
+2019-06-18T12:27:30.463Z: Project "POC_VALE_Instrucao_de_Operacao_7_6_2" saved as new project "POC_VALE_Instrucao_de_Operacao_7_6_3"[2019-06-18T12:27:32.239Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] Begin upgrade of project POC_VALE_Instrucao_de_Operacao_7_6_3
+[2019-06-18T12:27:32.240Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] Upgrading project POC_VALE_Instrucao_de_Operacao_7_6_3 C:\Users\Samuel Rodrigues\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_6_3 from 1.39.1560 to 8.4.4.4392 (1.39.1560)
+[2019-06-18T12:27:32.243Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] Make sure there are not any stale files lying around
+[2019-06-18T12:27:32.243Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] Removing  C:\Users\Samuel Rodrigues\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_6_3/src/phone/resources/Default/
+[2019-06-18T12:27:32.253Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] Create .gitignore for project dir
+[2019-06-18T12:27:32.258Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] Copying /src/**/* to project, overwrite=false
+[2019-06-18T12:27:32.259Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-06-18T12:27:32.428Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] Copy of project files complete
+[2019-06-18T12:27:32.428Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] Updating version to  8.4.4.4392 (1.39.1560)
+[2019-06-18T12:27:32.428Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] onupgrade sucessful, now build the project
+[2019-06-18T12:27:32.428Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] BEGIN buildApp POC_VALE_Instrucao_de_Operacao_7_6_3_1560860852428
+[2019-06-18T12:27:32.428Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] write settings
+[2019-06-18T12:27:32.429Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] copy runtime extensions
+[2019-06-18T12:27:33.240Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] packageThemeSet
+[2019-06-18T12:27:34.030Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] onBuild
+[2019-06-18T12:27:34.031Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] Building ves-ar-extension app: POC_VALE_Instrucao_de_Operacao_7_6_3
+[2019-06-18T12:27:34.038Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] pathDir C:\Users\Samuel Rodrigues\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_6_3
+[2019-06-18T12:27:34.038Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] scaffoldDir C:\Users\Samuel Rodrigues\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-06-18T12:27:34.038Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] copySrc
+[2019-06-18T12:27:35.230Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] buildApp
+[2019-06-18T12:27:37.161Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] END buildApp POC_VALE_Instrucao_de_Operacao_7_6_3_1560860852428
+[2019-06-18T12:27:37.162Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] Build succeeded.
+[2019-06-24T11:20:20.251Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] Begin upgrade of project POC_VALE_Instrucao_de_Operacao_7_6_3
+[2019-06-24T11:20:20.253Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] Upgrading project POC_VALE_Instrucao_de_Operacao_7_6_3 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_6_3 from 1.39.1560 to 8.4.4.4392 (1.39.1560)
+[2019-06-24T11:20:20.510Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] Make sure there are not any stale files lying around
+[2019-06-24T11:20:20.511Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_6_3/src/phone/resources/Default/
+[2019-06-24T11:20:20.535Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] Create .gitignore for project dir
+[2019-06-24T11:20:20.562Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] Copying /src/**/* to project, overwrite=false
+[2019-06-24T11:20:20.564Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-06-24T11:20:20.981Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] Copy of project files complete
+[2019-06-24T11:20:20.981Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] Updating version to  8.4.4.4392 (1.39.1560)
+[2019-06-24T11:20:20.981Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] onupgrade sucessful, now build the project
+[2019-06-24T11:20:20.982Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] BEGIN buildApp POC_VALE_Instrucao_de_Operacao_7_6_3_1561375220981
+[2019-06-24T11:20:20.982Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] write settings
+[2019-06-24T11:20:20.984Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] copy runtime extensions
+[2019-06-24T11:20:22.152Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] packageThemeSet
+[2019-06-24T11:20:24.041Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] onBuild
+[2019-06-24T11:20:24.041Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] Building ves-ar-extension app: POC_VALE_Instrucao_de_Operacao_7_6_3
+[2019-06-24T11:20:24.350Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_6_3
+[2019-06-24T11:20:24.350Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-06-24T11:20:24.350Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] copySrc
+[2019-06-24T11:20:27.043Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] buildApp
+[2019-06-24T11:20:30.469Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] END buildApp POC_VALE_Instrucao_de_Operacao_7_6_3_1561375220981
+[2019-06-24T11:20:30.470Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_6_3] Build succeeded.
+
+2019-06-24T12:10:56.736Z: Project "POC_VALE_Instrucao_de_Operacao_7_6_3" saved as new project "POC_VALE_Instrucao_de_Operacao_7_7"[2019-06-24T12:13:01.895Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_7] Begin upgrade of project POC_VALE_Instrucao_de_Operacao_7_7
+[2019-06-24T12:13:01.896Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_7] Upgrading project POC_VALE_Instrucao_de_Operacao_7_7 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_7 from 1.39.1560 to 8.4.4.4392 (1.39.1560)
+[2019-06-24T12:13:01.898Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_7] Make sure there are not any stale files lying around
+[2019-06-24T12:13:01.899Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_7] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_7/src/phone/resources/Default/
+[2019-06-24T12:13:01.918Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_7] Create .gitignore for project dir
+[2019-06-24T12:13:01.935Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_7] Copying /src/**/* to project, overwrite=false
+[2019-06-24T12:13:01.937Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_7] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-06-24T12:13:02.536Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_7] Copy of project files complete
+[2019-06-24T12:13:02.537Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_7] Updating version to  8.4.4.4392 (1.39.1560)
+[2019-06-24T12:13:02.537Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_7] onupgrade sucessful, now build the project
+[2019-06-24T12:13:02.537Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_7] BEGIN buildApp POC_VALE_Instrucao_de_Operacao_7_7_1561378382537
+[2019-06-24T12:13:02.537Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_7] write settings
+[2019-06-24T12:13:02.541Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_7] copy runtime extensions
+[2019-06-24T12:13:03.765Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_7] packageThemeSet
+[2019-06-24T12:13:05.780Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_7] onBuild
+[2019-06-24T12:13:05.780Z] info: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_7] Building ves-ar-extension app: POC_VALE_Instrucao_de_Operacao_7_7
+[2019-06-24T12:13:05.886Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_7] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_Instrucao_de_Operacao_7_7
+[2019-06-24T12:13:05.887Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_7] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-06-24T12:13:05.887Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_7] copySrc
+[2019-06-24T12:13:11.742Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_7] buildApp
+[2019-06-24T12:13:17.890Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_7] END buildApp POC_VALE_Instrucao_de_Operacao_7_7_1561378382537
+[2019-06-24T12:13:17.890Z] debug: [twx-studio:upgrade:POC_VALE_Instrucao_de_Operacao_7_7] Build succeeded.
+
+2019-06-25T14:02:48.633Z: Project "POC_VALE_Instrucao_de_Operacao_7_7" saved as new project "POC_VALE_OPERACAO_ViradoDeVagao_7_7"[2019-06-27T16:38:43.408Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Begin upgrade of project POC_VALE_OPERACAO_ViradoDeVagao_7_7
+[2019-06-27T16:38:43.410Z] info: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Upgrading project POC_VALE_OPERACAO_ViradoDeVagao_7_7 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_OPERACAO_ViradoDeVagao_7_7 from 1.39.1560 to 8.4.4.4392 (1.39.1560)
+[2019-06-27T16:38:43.734Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Make sure there are not any stale files lying around
+[2019-06-27T16:38:43.735Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_OPERACAO_ViradoDeVagao_7_7/src/phone/resources/Default/
+[2019-06-27T16:38:43.785Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Create .gitignore for project dir
+[2019-06-27T16:38:43.793Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Copying /src/**/* to project, overwrite=false
+[2019-06-27T16:38:43.795Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-06-27T16:38:44.255Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Copy of project files complete
+[2019-06-27T16:38:44.255Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Updating version to  8.4.4.4392 (1.39.1560)
+[2019-06-27T16:38:44.255Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] onupgrade sucessful, now build the project
+[2019-06-27T16:38:44.255Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] BEGIN buildApp POC_VALE_OPERACAO_ViradoDeVagao_7_7_1561653524255
+[2019-06-27T16:38:44.256Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] write settings
+[2019-06-27T16:38:44.262Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] copy runtime extensions
+[2019-06-27T16:38:45.516Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] packageThemeSet
+[2019-06-27T16:38:47.334Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] onBuild
+[2019-06-27T16:38:47.335Z] info: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Building ves-ar-extension app: POC_VALE_OPERACAO_ViradoDeVagao_7_7
+[2019-06-27T16:38:47.347Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_OPERACAO_ViradoDeVagao_7_7
+[2019-06-27T16:38:47.347Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-06-27T16:38:47.347Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] copySrc
+[2019-06-27T16:38:50.954Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] buildApp
+[2019-06-27T16:38:56.129Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] END buildApp POC_VALE_OPERACAO_ViradoDeVagao_7_7_1561653524255
+[2019-06-27T16:38:56.129Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Build succeeded.
+[2019-06-28T18:31:58.890Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Begin upgrade of project POC_VALE_OPERACAO_ViradoDeVagao_7_7
+[2019-06-28T18:31:58.891Z] info: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Upgrading project POC_VALE_OPERACAO_ViradoDeVagao_7_7 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_OPERACAO_ViradoDeVagao_7_7 from 1.39.1560 to 8.4.5.4404 (1.40.1573)
+[2019-06-28T18:31:58.896Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Make sure there are not any stale files lying around
+[2019-06-28T18:31:58.897Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_OPERACAO_ViradoDeVagao_7_7/css/
+[2019-06-28T18:31:58.900Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_OPERACAO_ViradoDeVagao_7_7/dist/
+[2019-06-28T18:31:59.069Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_OPERACAO_ViradoDeVagao_7_7/extensions/
+[2019-06-28T18:31:59.101Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_OPERACAO_ViradoDeVagao_7_7/src/phone/resources/Default/
+[2019-06-28T18:31:59.116Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_OPERACAO_ViradoDeVagao_7_7/theme/
+[2019-06-28T18:31:59.138Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Copying /src/**/* to project, overwrite=false
+[2019-06-28T18:31:59.140Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-06-28T18:31:59.656Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Copy of project files complete
+[2019-06-28T18:31:59.656Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Updating version to  8.4.5.4404 (1.40.1573)
+[2019-06-28T18:31:59.656Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] onupgrade sucessful, now build the project
+[2019-06-28T18:31:59.656Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] BEGIN buildApp POC_VALE_OPERACAO_ViradoDeVagao_7_7_1561746719656
+[2019-06-28T18:31:59.656Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] write settings
+[2019-06-28T18:31:59.670Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] copy runtime extensions
+[2019-06-28T18:32:02.106Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] packageThemeSet
+[2019-06-28T18:32:04.523Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] onBuild
+[2019-06-28T18:32:04.523Z] info: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Building ves-ar-extension app: POC_VALE_OPERACAO_ViradoDeVagao_7_7
+[2019-06-28T18:32:04.540Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_OPERACAO_ViradoDeVagao_7_7
+[2019-06-28T18:32:04.540Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-06-28T18:32:04.540Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] copySrc
+[2019-06-28T18:32:08.455Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] buildApp
+[2019-06-28T18:32:13.768Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] END buildApp POC_VALE_OPERACAO_ViradoDeVagao_7_7_1561746719656
+[2019-06-28T18:32:13.768Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Build succeeded.
+[2019-06-30T13:55:08.594Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Begin upgrade of project POC_VALE_OPERACAO_ViradoDeVagao_7_7
+[2019-06-30T13:55:08.595Z] info: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Upgrading project POC_VALE_OPERACAO_ViradoDeVagao_7_7 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_OPERACAO_ViradoDeVagao_7_7 from 1.40.1573 to 8.4.5.4404 (1.40.1573)
+[2019-06-30T13:55:08.605Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Make sure there are not any stale files lying around
+[2019-06-30T13:55:08.605Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_OPERACAO_ViradoDeVagao_7_7/src/phone/resources/Default/
+[2019-06-30T13:55:08.627Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Create .gitignore for project dir
+[2019-06-30T13:55:08.631Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Copying /src/**/* to project, overwrite=false
+[2019-06-30T13:55:08.635Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-06-30T13:55:08.979Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Copy of project files complete
+[2019-06-30T13:55:08.979Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Updating version to  8.4.5.4404 (1.40.1573)
+[2019-06-30T13:55:08.980Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] onupgrade sucessful, now build the project
+[2019-06-30T13:55:08.980Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] BEGIN buildApp POC_VALE_OPERACAO_ViradoDeVagao_7_7_1561902908980
+[2019-06-30T13:55:08.980Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] write settings
+[2019-06-30T13:55:08.985Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] copy runtime extensions
+[2019-06-30T13:55:11.625Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] packageThemeSet
+[2019-06-30T13:55:15.081Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] onBuild
+[2019-06-30T13:55:15.081Z] info: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Building ves-ar-extension app: POC_VALE_OPERACAO_ViradoDeVagao_7_7
+[2019-06-30T13:55:15.103Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_OPERACAO_ViradoDeVagao_7_7
+[2019-06-30T13:55:15.103Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-06-30T13:55:15.103Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] copySrc
+[2019-06-30T13:55:26.634Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] buildApp
+[2019-06-30T13:55:31.347Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] END buildApp POC_VALE_OPERACAO_ViradoDeVagao_7_7_1561902908980
+[2019-06-30T13:55:31.347Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Build succeeded.
+[2019-07-01T16:00:04.618Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Begin upgrade of project POC_VALE_OPERACAO_ViradoDeVagao_7_7
+[2019-07-01T16:00:04.619Z] info: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Upgrading project POC_VALE_OPERACAO_ViradoDeVagao_7_7 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_OPERACAO_ViradoDeVagao_7_7 from 1.40.1573 to 8.4.5.4404 (1.40.1573)
+[2019-07-01T16:00:04.622Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Make sure there are not any stale files lying around
+[2019-07-01T16:00:04.623Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_OPERACAO_ViradoDeVagao_7_7/src/phone/resources/Default/
+[2019-07-01T16:00:04.639Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Create .gitignore for project dir
+[2019-07-01T16:00:04.643Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Copying /src/**/* to project, overwrite=false
+[2019-07-01T16:00:04.645Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-07-01T16:00:05.049Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Copy of project files complete
+[2019-07-01T16:00:05.049Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Updating version to  8.4.5.4404 (1.40.1573)
+[2019-07-01T16:00:05.050Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] onupgrade sucessful, now build the project
+[2019-07-01T16:00:05.050Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] BEGIN buildApp POC_VALE_OPERACAO_ViradoDeVagao_7_7_1561996805050
+[2019-07-01T16:00:05.050Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] write settings
+[2019-07-01T16:00:05.052Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] copy runtime extensions
+[2019-07-01T16:00:06.432Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] packageThemeSet
+[2019-07-01T16:00:07.614Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] onBuild
+[2019-07-01T16:00:07.614Z] info: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Building ves-ar-extension app: POC_VALE_OPERACAO_ViradoDeVagao_7_7
+[2019-07-01T16:00:07.668Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_OPERACAO_ViradoDeVagao_7_7
+[2019-07-01T16:00:07.668Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-07-01T16:00:07.668Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] copySrc
+[2019-07-01T16:00:17.264Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] buildApp
+[2019-07-01T16:00:24.012Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] END buildApp POC_VALE_OPERACAO_ViradoDeVagao_7_7_1561996805050
+[2019-07-01T16:00:24.013Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_7] Build succeeded.
+
+2019-07-01T18:18:11.363Z: Project "POC_VALE_OPERACAO_ViradoDeVagao_7_7" saved as new project "POC_VALE_OPERACAO_ViradoDeVagao_7_8"[2019-07-01T18:18:59.585Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_8] Begin upgrade of project POC_VALE_OPERACAO_ViradoDeVagao_7_8
+[2019-07-01T18:18:59.586Z] info: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_8] Upgrading project POC_VALE_OPERACAO_ViradoDeVagao_7_8 C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_OPERACAO_ViradoDeVagao_7_8 from 1.40.1573 to 8.4.5.4404 (1.40.1573)
+[2019-07-01T18:18:59.589Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_8] Make sure there are not any stale files lying around
+[2019-07-01T18:18:59.589Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_8] Removing  C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_OPERACAO_ViradoDeVagao_7_8/src/phone/resources/Default/
+[2019-07-01T18:18:59.600Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_8] Create .gitignore for project dir
+[2019-07-01T18:18:59.605Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_8] Copying /src/**/* to project, overwrite=false
+[2019-07-01T18:18:59.607Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_8] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-07-01T18:18:59.910Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_8] Copy of project files complete
+[2019-07-01T18:18:59.910Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_8] Updating version to  8.4.5.4404 (1.40.1573)
+[2019-07-01T18:18:59.910Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_8] onupgrade sucessful, now build the project
+[2019-07-01T18:18:59.910Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_8] BEGIN buildApp POC_VALE_OPERACAO_ViradoDeVagao_7_8_1562005139910
+[2019-07-01T18:18:59.910Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_8] write settings
+[2019-07-01T18:18:59.912Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_8] copy runtime extensions
+[2019-07-01T18:19:01.316Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_8] packageThemeSet
+[2019-07-01T18:19:02.811Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_8] onBuild
+[2019-07-01T18:19:02.811Z] info: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_8] Building ves-ar-extension app: POC_VALE_OPERACAO_ViradoDeVagao_7_8
+[2019-07-01T18:19:02.828Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_8] pathDir C:\Users\italo\Documents\VuforiaStudio\Projects\POC_VALE_OPERACAO_ViradoDeVagao_7_8
+[2019-07-01T18:19:02.828Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_8] scaffoldDir C:\Users\italo\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-07-01T18:19:02.828Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_8] copySrc
+[2019-07-01T18:19:04.829Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_8] buildApp
+[2019-07-01T18:19:10.161Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_8] END buildApp POC_VALE_OPERACAO_ViradoDeVagao_7_8_1562005139910
+[2019-07-01T18:19:10.161Z] debug: [twx-studio:upgrade:POC_VALE_OPERACAO_ViradoDeVagao_7_8] Build succeeded.
+[2021-09-03T16:59:31.975Z] debug: [twx-studio:upgrade:VLE_PSV_INST_VRD-VAG_MOB_TM_0_0_0] Begin upgrade of project
+[2021-09-03T16:59:31.976Z] info: [twx-studio:upgrade:VLE_PSV_INST_VRD-VAG_MOB_TM_0_0_0] Upgrading project
+[2021-09-03T16:59:32.029Z] debug: [twx-studio:upgrade:VLE_PSV_INST_VRD-VAG_MOB_TM_0_0_0] Make sure there are not any stale files lying around
+[2021-09-03T16:59:32.029Z] debug: [twx-studio:upgrade:VLE_PSV_INST_VRD-VAG_MOB_TM_0_0_0] Removing 
+[2021-09-03T16:59:32.031Z] debug: [twx-studio:upgrade:VLE_PSV_INST_VRD-VAG_MOB_TM_0_0_0] Create .gitignore for project dir
+[2021-09-03T16:59:32.032Z] debug: [twx-studio:upgrade:VLE_PSV_INST_VRD-VAG_MOB_TM_0_0_0] Copying /src/**/* to project, overwrite=false
+[2021-09-03T16:59:32.033Z] debug: [twx-studio:upgrade:VLE_PSV_INST_VRD-VAG_MOB_TM_0_0_0] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2021-09-03T16:59:32.153Z] debug: [twx-studio:upgrade:VLE_PSV_INST_VRD-VAG_MOB_TM_0_0_0] Copy of project files complete
+[2021-09-03T16:59:32.153Z] debug: [twx-studio:upgrade:VLE_PSV_INST_VRD-VAG_MOB_TM_0_0_0] Updating version to 
+[2021-09-03T16:59:32.154Z] debug: [twx-studio:upgrade:VLE_PSV_INST_VRD-VAG_MOB_TM_0_0_0] onupgrade sucessful, now build the project
+[2021-09-03T16:59:32.154Z] debug: [twx-studio:upgrade:VLE_PSV_INST_VRD-VAG_MOB_TM_0_0_0] BEGIN buildApp
+[2021-09-03T16:59:32.154Z] debug: [twx-studio:upgrade:VLE_PSV_INST_VRD-VAG_MOB_TM_0_0_0] write settings
+[2021-09-03T16:59:32.155Z] debug: [twx-studio:upgrade:VLE_PSV_INST_VRD-VAG_MOB_TM_0_0_0] copy runtime extensions
+[2021-09-03T16:59:32.569Z] debug: [twx-studio:upgrade:VLE_PSV_INST_VRD-VAG_MOB_TM_0_0_0] packageThemeSet
+[2021-09-03T16:59:33.840Z] debug: [twx-studio:upgrade:VLE_PSV_INST_VRD-VAG_MOB_TM_0_0_0] onBuild
+[2021-09-03T16:59:33.842Z] info: [twx-studio:upgrade:VLE_PSV_INST_VRD-VAG_MOB_TM_0_0_0] Building ves-ar-extension app:
+[2021-09-03T16:59:33.953Z] debug: [twx-studio:upgrade:VLE_PSV_INST_VRD-VAG_MOB_TM_0_0_0] pathDir
+[2021-09-03T16:59:33.954Z] debug: [twx-studio:upgrade:VLE_PSV_INST_VRD-VAG_MOB_TM_0_0_0] scaffoldDir
+[2021-09-03T16:59:33.954Z] debug: [twx-studio:upgrade:VLE_PSV_INST_VRD-VAG_MOB_TM_0_0_0] copySrc
+[2021-09-03T16:59:34.411Z] debug: [twx-studio:upgrade:VLE_PSV_INST_VRD-VAG_MOB_TM_0_0_0] buildApp
+[2021-09-03T16:59:36.023Z] debug: [twx-studio:upgrade:VLE_PSV_INST_VRD-VAG_MOB_TM_0_0_0] END buildApp
+[2021-09-03T16:59:36.023Z] debug: [twx-studio:upgrade:VLE_PSV_INST_VRD-VAG_MOB_TM_0_0_0] Build succeeded.
+
+2021-09-09T19:22:21.063Z: Project "VLE_PSV_INST_VRD-VAG_MOB_TM_0_0_0" saved as new project "teste_painel_navegacao"[2021-09-09T19:22:23.935Z] debug: [twx-studio:upgrade:teste_painel_navegacao] Begin upgrade of project
+[2021-09-09T19:22:23.936Z] info: [twx-studio:upgrade:teste_painel_navegacao] Upgrading project
+[2021-09-09T19:22:23.940Z] debug: [twx-studio:upgrade:teste_painel_navegacao] Make sure there are not any stale files lying around
+[2021-09-09T19:22:23.940Z] debug: [twx-studio:upgrade:teste_painel_navegacao] Removing 
+[2021-09-09T19:22:23.949Z] debug: [twx-studio:upgrade:teste_painel_navegacao] Create .gitignore for project dir
+[2021-09-09T19:22:23.950Z] debug: [twx-studio:upgrade:teste_painel_navegacao] Copying /src/**/* to project, overwrite=false
+[2021-09-09T19:22:23.955Z] debug: [twx-studio:upgrade:teste_painel_navegacao] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2021-09-09T19:22:24.089Z] debug: [twx-studio:upgrade:teste_painel_navegacao] Copy of project files complete
+[2021-09-09T19:22:24.090Z] debug: [twx-studio:upgrade:teste_painel_navegacao] Updating version to 
+[2021-09-09T19:22:24.093Z] debug: [twx-studio:upgrade:teste_painel_navegacao] onupgrade sucessful, now build the project
+[2021-09-09T19:22:24.093Z] debug: [twx-studio:upgrade:teste_painel_navegacao] BEGIN buildApp
+[2021-09-09T19:22:24.094Z] debug: [twx-studio:upgrade:teste_painel_navegacao] write settings
+[2021-09-09T19:22:24.094Z] debug: [twx-studio:upgrade:teste_painel_navegacao] copy runtime extensions
+[2021-09-09T19:22:24.463Z] debug: [twx-studio:upgrade:teste_painel_navegacao] packageThemeSet
+[2021-09-09T19:22:25.659Z] debug: [twx-studio:upgrade:teste_painel_navegacao] onBuild
+[2021-09-09T19:22:25.659Z] info: [twx-studio:upgrade:teste_painel_navegacao] Building ves-ar-extension app:
+[2021-09-09T19:22:25.685Z] debug: [twx-studio:upgrade:teste_painel_navegacao] pathDir
+[2021-09-09T19:22:25.685Z] debug: [twx-studio:upgrade:teste_painel_navegacao] scaffoldDir
+[2021-09-09T19:22:25.685Z] debug: [twx-studio:upgrade:teste_painel_navegacao] copySrc
+[2021-09-09T19:22:26.227Z] debug: [twx-studio:upgrade:teste_painel_navegacao] buildApp
+[2021-09-09T19:22:27.703Z] debug: [twx-studio:upgrade:teste_painel_navegacao] END buildApp
+[2021-09-09T19:22:27.704Z] debug: [twx-studio:upgrade:teste_painel_navegacao] Build succeeded.
+
+2021-09-15T17:03:19.180Z: Project "teste_painel_navegacao" saved as new project "Experi_ncia_de_Desenvolvimento"[2021-09-15T17:03:25.839Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Begin upgrade of project
+[2021-09-15T17:03:25.840Z] info: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Upgrading project
+[2021-09-15T17:03:25.842Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Make sure there are not any stale files lying around
+[2021-09-15T17:03:25.843Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Removing 
+[2021-09-15T17:03:25.848Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Create .gitignore for project dir
+[2021-09-15T17:03:25.848Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Copying /src/**/* to project, overwrite=false
+[2021-09-15T17:03:25.850Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2021-09-15T17:03:26.048Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Copy of project files complete
+[2021-09-15T17:03:26.048Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Updating version to 
+[2021-09-15T17:03:26.048Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] onupgrade sucessful, now build the project
+[2021-09-15T17:03:26.049Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] BEGIN buildApp
+[2021-09-15T17:03:26.049Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] write settings
+[2021-09-15T17:03:26.049Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] copy runtime extensions
+[2021-09-15T17:03:26.639Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] packageThemeSet
+[2021-09-15T17:03:28.314Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] onBuild
+[2021-09-15T17:03:28.314Z] info: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Building ves-ar-extension app:
+[2021-09-15T17:03:28.346Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] pathDir
+[2021-09-15T17:03:28.346Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] scaffoldDir
+[2021-09-15T17:03:28.346Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] copySrc
+[2021-09-15T17:03:30.012Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] buildApp
+[2021-09-15T17:03:32.203Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] END buildApp
+[2021-09-15T17:03:32.204Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Build succeeded.
+[2021-10-05T14:34:17.221Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Begin upgrade of project
+[2021-10-05T14:34:17.222Z] info: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Upgrading project
+[2021-10-05T14:34:17.226Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Make sure there are not any stale files lying around
+[2021-10-05T14:34:17.226Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Removing 
+[2021-10-05T14:34:17.236Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Removing 
+[2021-10-05T14:34:17.480Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Removing 
+[2021-10-05T14:34:17.532Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Removing 
+[2021-10-05T14:34:17.619Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Removing 
+[2021-10-05T14:34:17.628Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Copying /src/**/* to project, overwrite=false
+[2021-10-05T14:34:17.637Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2021-10-05T14:34:17.769Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Copy of project files complete
+[2021-10-05T14:34:17.769Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Updating version to 
+[2021-10-05T14:34:17.769Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] onupgrade sucessful, now build the project
+[2021-10-05T14:34:17.769Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] BEGIN buildApp
+[2021-10-05T14:34:17.770Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] write settings
+[2021-10-05T14:34:17.770Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] copy runtime extensions
+[2021-10-05T14:34:18.250Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] packageThemeSet
+[2021-10-05T14:34:19.744Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] onBuild
+[2021-10-05T14:34:19.745Z] info: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Building ves-ar-extension app:
+[2021-10-05T14:34:19.778Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] pathDir
+[2021-10-05T14:34:19.778Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] scaffoldDir
+[2021-10-05T14:34:19.778Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] copySrc
+[2021-10-05T14:34:21.041Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] buildApp
+[2021-10-05T14:34:23.561Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] END buildApp
+[2021-10-05T14:34:23.561Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Build succeeded.
+[2021-10-20T17:36:43.522Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Begin upgrade of project
+[2021-10-20T17:36:43.523Z] info: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Upgrading project
+[2021-10-20T17:36:43.528Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Make sure there are not any stale files lying around
+[2021-10-20T17:36:43.529Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Removing 
+[2021-10-20T17:36:43.544Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Create .gitignore for project dir
+[2021-10-20T17:36:43.545Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Copying /src/**/* to project, overwrite=false
+[2021-10-20T17:36:43.549Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2021-10-20T17:36:43.661Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Copy of project files complete
+[2021-10-20T17:36:43.661Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Updating version to 
+[2021-10-20T17:36:43.661Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] onupgrade sucessful, now build the project
+[2021-10-20T17:36:43.662Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] BEGIN buildApp
+[2021-10-20T17:36:43.662Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] write settings
+[2021-10-20T17:36:43.663Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] copy runtime extensions
+[2021-10-20T17:36:44.047Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] packageThemeSet
+[2021-10-20T17:36:45.205Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] onBuild
+[2021-10-20T17:36:45.205Z] info: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Building ves-ar-extension app:
+[2021-10-20T17:36:45.234Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] pathDir
+[2021-10-20T17:36:45.234Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] scaffoldDir
+[2021-10-20T17:36:45.234Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] copySrc
+[2021-10-20T17:36:45.984Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] buildApp
+[2021-10-20T17:36:47.579Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] END buildApp
+[2021-10-20T17:36:47.580Z] debug: [twx-studio:upgrade:Experi_ncia_de_Desenvolvimento] Build succeeded.

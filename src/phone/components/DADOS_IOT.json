@@ -1,0 +1,181 @@
+{
+  "attributes": {
+    "twx-widget": "",
+    "widget-id": "view-1",
+    "widget-name": "view-1",
+    "is-widget-container": "true",
+    "viewtype": "mobile-2D"
+  },
+  "children": [
+    {
+      "name": "twx-container-content",
+      "children": [
+        {
+          "attributes": {
+            "twx-widget": "",
+            "widget-id": "header-1",
+            "widget-name": "header-1",
+            "is-widget-container": "true"
+          },
+          "name": "twx-view-header",
+          "children": [
+            {
+              "name": "twx-container-content",
+              "children": [
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "headerButtons-1",
+                    "widget-name": "headerButtons-1",
+                    "is-widget-container": "true",
+                    "align": "primary"
+                  },
+                  "name": "twx-header-buttons",
+                  "children": [
+                    {
+                      "name": "twx-container-content"
+                    }
+                  ]
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "headerTitle-1",
+                    "widget-name": "headerTitle-1",
+                    "is-widget-container": "true"
+                  },
+                  "name": "twx-header-title",
+                  "children": [
+                    {
+                      "name": "twx-container-content"
+                    }
+                  ]
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "headerButtons-2",
+                    "widget-name": "headerButtons-2",
+                    "is-widget-container": "true",
+                    "align": "secondary"
+                  },
+                  "name": "twx-header-buttons",
+                  "children": [
+                    {
+                      "name": "twx-container-content"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "attributes": {
+            "twx-widget": "",
+            "widget-id": "panel-1",
+            "widget-name": "panel-1",
+            "is-widget-container": "true"
+          },
+          "name": "twx-panel",
+          "children": [
+            {
+              "name": "twx-container-content",
+              "children": [
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "label",
+                    "state-format-value": "text",
+                    "widget-name": "label",
+                    "text": "Label"
+                  },
+                  "name": "twx-label"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "attributes": {
+            "twx-widget": "",
+            "widget-id": "footer-2",
+            "widget-name": "footer-2",
+            "is-widget-container": "true"
+          },
+          "name": "twx-view-footer",
+          "children": [
+            {
+              "name": "twx-container-content",
+              "children": [
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "button-1",
+                    "widget-name": "button-1",
+                    "click-expression": "obterDado();",
+                    "text": "Button",
+                    "class": "button-energized"
+                  },
+                  "name": "twx-button"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "attributes": {
+            "twx-widget": "",
+            "widget-id": "timeSeriesChart-1",
+            "widget-name": "timeSeriesChart-1",
+            "data": "RPM"
+          },
+          "name": "twx-time-series-chart"
+        },
+        {
+          "attributes": {
+            "twx-widget": "",
+            "widget-id": "valueDisplay-1",
+            "state-format-value": "value",
+            "widget-name": "valueDisplay-1",
+            "value": "Value",
+            "label": "Label"
+          },
+          "name": "twx-valuedisplay"
+        },
+        {
+          "attributes": {
+            "twx-widget": "",
+            "widget-id": "gauge-1",
+            "state-format-value": "value",
+            "widget-name": "gauge-1"
+          },
+          "name": "twx-gauge",
+          "children": [
+            {
+              "attributes": {
+                "databind-id": "db-1633610160510",
+                "source-type": "data",
+                "source-name": "Fan1",
+                "source-item-type": "service",
+                "source-item-name": "GetPropertyValues_2",
+                "source-item-field-name": "RPM",
+                "binding-type": "current_row_field",
+                "from-expression": "app.mdl['Fan1'].svc['GetPropertyValues_2'].data.current['RPM']",
+                "to-property": "value"
+              },
+              "name": "twx-databind"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "twx-fragment-parameters"
+    },
+    {
+      "name": "twx-view-data"
+    }
+  ],
+  "name": "twx-view"
+}

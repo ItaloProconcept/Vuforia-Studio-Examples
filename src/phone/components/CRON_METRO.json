@@ -1,0 +1,244 @@
+{
+  "attributes": {
+    "twx-widget": "",
+    "widget-id": "view-1",
+    "widget-name": "view-1",
+    "is-widget-container": "true",
+    "viewtype": "mobile-2D"
+  },
+  "children": [
+    {
+      "name": "twx-container-content",
+      "children": [
+        {
+          "attributes": {
+            "twx-widget": "",
+            "widget-id": "header-1",
+            "widget-name": "header-1",
+            "is-widget-container": "true"
+          },
+          "name": "twx-view-header",
+          "children": [
+            {
+              "name": "twx-container-content",
+              "children": [
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "headerButtons-1",
+                    "widget-name": "headerButtons-1",
+                    "is-widget-container": "true",
+                    "align": "primary"
+                  },
+                  "name": "twx-header-buttons",
+                  "children": [
+                    {
+                      "name": "twx-container-content"
+                    }
+                  ]
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "headerTitle-1",
+                    "widget-name": "headerTitle-1",
+                    "is-widget-container": "true"
+                  },
+                  "name": "twx-header-title",
+                  "children": [
+                    {
+                      "name": "twx-container-content"
+                    }
+                  ]
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "headerButtons-2",
+                    "widget-name": "headerButtons-2",
+                    "is-widget-container": "true",
+                    "align": "secondary"
+                  },
+                  "name": "twx-header-buttons",
+                  "children": [
+                    {
+                      "name": "twx-container-content"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "attributes": {
+            "twx-widget": "",
+            "widget-id": "footer-1",
+            "widget-name": "footer-1",
+            "is-widget-container": "true"
+          },
+          "name": "twx-view-footer",
+          "children": [
+            {
+              "name": "twx-container-content"
+            }
+          ]
+        },
+        {
+          "attributes": {
+            "twx-widget": "",
+            "widget-id": "center",
+            "widget-name": "center",
+            "is-widget-container": "true",
+            "height": "100%",
+            "flexdirection": "row",
+            "justification": "flex-end",
+            "alignment": "center"
+          },
+          "name": "twx-panel",
+          "children": [
+            {
+              "name": "twx-container-content",
+              "children": [
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "gridLayout-1",
+                    "widget-name": "gridLayout-1",
+                    "is-widget-container": "true"
+                  },
+                  "name": "twx-gridlayout",
+                  "children": [
+                    {
+                      "name": "twx-container-content",
+                      "children": [
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "row-1",
+                            "widget-name": "row-1",
+                            "is-widget-container": "true"
+                          },
+                          "name": "twx-row",
+                          "children": [
+                            {
+                              "name": "twx-container-content",
+                              "children": [
+                                {
+                                  "attributes": {
+                                    "twx-widget": "",
+                                    "widget-id": "column-1",
+                                    "widget-name": "column-1",
+                                    "is-widget-container": "true"
+                                  },
+                                  "name": "twx-col",
+                                  "children": [
+                                    {
+                                      "name": "twx-container-content",
+                                      "children": [
+                                        {
+                                          "attributes": {
+                                            "twx-widget": "",
+                                            "widget-id": "button-1",
+                                            "widget-name": "button-1",
+                                            "click-expression": "start();",
+                                            "text": "Iniciar",
+                                            "class": "button-balanced"
+                                          },
+                                          "name": "twx-button"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "attributes": {
+                                    "twx-widget": "",
+                                    "widget-id": "column-2",
+                                    "widget-name": "column-2",
+                                    "is-widget-container": "true"
+                                  },
+                                  "name": "twx-col",
+                                  "children": [
+                                    {
+                                      "name": "twx-container-content",
+                                      "children": [
+                                        {
+                                          "attributes": {
+                                            "twx-widget": "",
+                                            "widget-id": "button-2",
+                                            "widget-name": "button-2",
+                                            "click-expression": "stop();",
+                                            "text": "Parar",
+                                            "class": "button-assertive"
+                                          },
+                                          "name": "twx-button"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "attributes": {
+                                    "twx-widget": "",
+                                    "widget-id": "column-3",
+                                    "widget-name": "column-3",
+                                    "is-widget-container": "true"
+                                  },
+                                  "name": "twx-col",
+                                  "children": [
+                                    {
+                                      "name": "twx-container-content",
+                                      "children": [
+                                        {
+                                          "attributes": {
+                                            "twx-widget": "",
+                                            "widget-id": "label-1",
+                                            "state-format-value": "text",
+                                            "widget-name": "label-1",
+                                            "text": "5"
+                                          },
+                                          "name": "twx-label",
+                                          "children": [
+                                            {
+                                              "attributes": {
+                                                "databind-id": "db-1631542032091",
+                                                "source-type": "data",
+                                                "source-name": "contador",
+                                                "source-item-type": "value",
+                                                "source-item-name": "contador",
+                                                "binding-type": "custom_field",
+                                                "from-expression": "app.params['contador']",
+                                                "to-property": "text"
+                                              },
+                                              "name": "twx-databind"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "twx-fragment-parameters"
+    },
+    {
+      "name": "twx-view-data"
+    }
+  ],
+  "name": "twx-view"
+}

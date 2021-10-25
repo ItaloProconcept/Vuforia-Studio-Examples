@@ -1,0 +1,334 @@
+{
+  "attributes": {
+    "twx-widget": "",
+    "widget-id": "view-1",
+    "widget-name": "view-1",
+    "is-widget-container": "true",
+    "viewtype": "ar"
+  },
+  "children": [
+    {
+      "name": "twx-container-content",
+      "children": [
+        {
+          "attributes": {
+            "twx-widget": "",
+            "widget-id": "3DContainer-1",
+            "widget-name": "3D Container",
+            "is-widget-container": "true",
+            "dropshadow": "true"
+          },
+          "name": "twx-dt-view",
+          "children": [
+            {
+              "name": "twx-container-content",
+              "children": [
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "spatialTarget-1",
+                    "widget-name": "spatialTarget-1",
+                    "x": "0.0000",
+                    "y": "0.0000",
+                    "z": "0.0000",
+                    "rx": "-90.00",
+                    "ry": "0.00",
+                    "rz": "0.00",
+                    "enablescalegesture": "true"
+                  },
+                  "name": "twx-dt-target-spatial"
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "Modelo-3D",
+                    "widget-name": "Modelo-3D",
+                    "is-widget-container": "true",
+                    "src": "Uploaded/Robot Arm Model_High.pvz",
+                    "scale": "0.5000",
+                    "y": "0.0000",
+                    "z": "0.3973",
+                    "rx": "0.00",
+                    "ry": "0.00",
+                    "rz": "0.00",
+                    "sequence": "Uploaded/l-Creo 3D - ElbowMotorReplacement.pvi"
+                  },
+                  "name": "twx-dt-model",
+                  "children": [
+                    {
+                      "attributes": {
+                        "databind-id": "db-1633616829544",
+                        "source-type": "ui",
+                        "source-label": "Select",
+                        "source-name": "select-1",
+                        "source-item-type": "property",
+                        "source-item-name": "value",
+                        "binding-type": "widget_property",
+                        "from-expression": "app.view['LISTA_DE_SEQU_NCIA'].wdg['select-1']['value']",
+                        "to-property": "sequence"
+                      },
+                      "name": "twx-databind"
+                    },
+                    {
+                      "name": "twx-container-content"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "attributes": {
+            "twx-widget": "",
+            "widget-id": "2DOverlay-1",
+            "widget-name": "2D Overlay",
+            "is-widget-container": "true"
+          },
+          "name": "twx-overlay",
+          "children": [
+            {
+              "name": "twx-container-content",
+              "children": [
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "2DOverlayBody-1",
+                    "widget-name": "2D Body",
+                    "is-widget-container": "true"
+                  },
+                  "name": "twx-overlay-body",
+                  "children": [
+                    {
+                      "name": "twx-container-content",
+                      "children": [
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "panel-2",
+                            "widget-name": "Left Panel",
+                            "is-widget-container": "true",
+                            "position": "left"
+                          },
+                          "name": "twx-overlay-container",
+                          "children": [
+                            {
+                              "name": "twx-container-content"
+                            }
+                          ]
+                        },
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "panel-3",
+                            "widget-name": "Center Panel",
+                            "is-widget-container": "true",
+                            "position": "center"
+                          },
+                          "name": "twx-overlay-container",
+                          "children": [
+                            {
+                              "name": "twx-container-content",
+                              "children": [
+                                {
+                                  "attributes": {
+                                    "twx-widget": "",
+                                    "widget-id": "select-1",
+                                    "widget-name": "select-1",
+                                    "valuefield": "filename",
+                                    "displayfield": "name",
+                                    "label": "Passo"
+                                  },
+                                  "name": "twx-select",
+                                  "children": [
+                                    {
+                                      "attributes": {
+                                        "databind-id": "db-1633616680052",
+                                        "source-type": "ui",
+                                        "source-label": "Model",
+                                        "source-name": "Modelo-3D",
+                                        "source-item-type": "property",
+                                        "source-item-name": "sequenceList",
+                                        "binding-type": "widget_property",
+                                        "from-expression": "app.view['LISTA_DE_SEQU_NCIA'].wdg['Modelo-3D']['sequenceList']",
+                                        "to-property": "list"
+                                      },
+                                      "name": "twx-databind"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "panel-4",
+                            "widget-name": "Right Panel",
+                            "is-widget-container": "true",
+                            "position": "right"
+                          },
+                          "name": "twx-overlay-container",
+                          "children": [
+                            {
+                              "name": "twx-container-content"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "panel-5",
+                    "widget-name": "Bottom Panel",
+                    "is-widget-container": "true",
+                    "position": "bottom"
+                  },
+                  "name": "twx-overlay-container",
+                  "children": [
+                    {
+                      "name": "twx-container-content",
+                      "children": [
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "gridLayout-1",
+                            "widget-name": "gridLayout-1",
+                            "is-widget-container": "true"
+                          },
+                          "name": "twx-gridlayout",
+                          "children": [
+                            {
+                              "name": "twx-container-content",
+                              "children": [
+                                {
+                                  "attributes": {
+                                    "twx-widget": "",
+                                    "widget-id": "row-1",
+                                    "widget-name": "row-1",
+                                    "is-widget-container": "true"
+                                  },
+                                  "name": "twx-row",
+                                  "children": [
+                                    {
+                                      "name": "twx-container-content",
+                                      "children": [
+                                        {
+                                          "attributes": {
+                                            "twx-widget": "",
+                                            "widget-id": "column-1",
+                                            "widget-name": "column-1",
+                                            "is-widget-container": "true",
+                                            "flexdirection": "row",
+                                            "justification": "space-between",
+                                            "alignment": "center",
+                                            "padding": "5px"
+                                          },
+                                          "name": "twx-col",
+                                          "children": [
+                                            {
+                                              "name": "twx-container-content",
+                                              "children": [
+                                                {
+                                                  "attributes": {
+                                                    "twx-widget": "",
+                                                    "widget-id": "valueDisplay-1",
+                                                    "state-format-value": "value",
+                                                    "widget-name": "valueDisplay-1",
+                                                    "value": "passo atual",
+                                                    "label": "total de passos",
+                                                    "type": "stackedlabel"
+                                                  },
+                                                  "name": "twx-valuedisplay",
+                                                  "children": [
+                                                    {
+                                                      "attributes": {
+                                                        "databind-id": "db-1633617223255",
+                                                        "source-type": "ui",
+                                                        "source-label": "Model",
+                                                        "source-name": "Modelo-3D",
+                                                        "source-item-type": "property",
+                                                        "source-item-name": "steps",
+                                                        "binding-type": "widget_property",
+                                                        "from-expression": "app.view['LISTA_DE_SEQU_NCIA'].wdg['Modelo-3D']['steps']",
+                                                        "to-property": "label"
+                                                      },
+                                                      "name": "twx-databind"
+                                                    },
+                                                    {
+                                                      "attributes": {
+                                                        "databind-id": "db-1633617228882",
+                                                        "source-type": "ui",
+                                                        "source-label": "Model",
+                                                        "source-name": "Modelo-3D",
+                                                        "source-item-type": "property",
+                                                        "source-item-name": "currentStep",
+                                                        "binding-type": "widget_property",
+                                                        "from-expression": "app.view['LISTA_DE_SEQU_NCIA'].wdg['Modelo-3D']['currentStep']",
+                                                        "to-property": "value"
+                                                      },
+                                                      "name": "twx-databind"
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "attributes": {
+                                                    "twx-widget": "",
+                                                    "widget-id": "botao-play",
+                                                    "widget-name": "botao-play",
+                                                    "text": "Play",
+                                                    "class": "button-balanced btn-click"
+                                                  },
+                                                  "name": "twx-button",
+                                                  "children": [
+                                                    {
+                                                      "attributes": {
+                                                        "eventbind-id": "eb-1633616620649",
+                                                        "source-type": "widget",
+                                                        "source-label": "Button",
+                                                        "source-name": "botao-play",
+                                                        "source-event": "click",
+                                                        "handler-type": "ui",
+                                                        "handler-name": "Modelo-3D",
+                                                        "handler-service": "play",
+                                                        "handler-path": "app.view[\"LISTA_DE_SEQU_NCIA\"].wdg[\"Modelo-3D\"].svc.play"
+                                                      },
+                                                      "name": "twx-eventbind"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "twx-fragment-parameters"
+    },
+    {
+      "name": "twx-view-data"
+    }
+  ],
+  "name": "twx-view"
+}

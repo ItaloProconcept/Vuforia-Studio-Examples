@@ -1,0 +1,114 @@
+{
+  "attributes": {
+    "twx-widget": "",
+    "widget-id": "view-1",
+    "widget-name": "view-1",
+    "is-widget-container": "true",
+    "viewtype": "mobile-2D"
+  },
+  "children": [
+    {
+      "name": "twx-container-content",
+      "children": [
+        {
+          "attributes": {
+            "twx-widget": "",
+            "widget-id": "footer-1",
+            "widget-name": "footer-1",
+            "is-widget-container": "true"
+          },
+          "name": "twx-view-footer",
+          "children": [
+            {
+              "name": "twx-container-content",
+              "children": [
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "gridLayout-1",
+                    "widget-name": "gridLayout-1",
+                    "is-widget-container": "true"
+                  },
+                  "name": "twx-gridlayout",
+                  "children": [
+                    {
+                      "name": "twx-container-content",
+                      "children": [
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "row-1",
+                            "widget-name": "row-1",
+                            "is-widget-container": "true"
+                          },
+                          "name": "twx-row",
+                          "children": [
+                            {
+                              "name": "twx-container-content",
+                              "children": [
+                                {
+                                  "attributes": {
+                                    "twx-widget": "",
+                                    "widget-id": "column-1",
+                                    "widget-name": "column-1",
+                                    "is-widget-container": "true",
+                                    "flexdirection": "row",
+                                    "justification": "space-between",
+                                    "alignment": "center",
+                                    "fixedcolsize": "100%",
+                                    "padding": "0px 20px"
+                                  },
+                                  "name": "twx-col",
+                                  "children": [
+                                    {
+                                      "name": "twx-container-content",
+                                      "children": [
+                                        {
+                                          "attributes": {
+                                            "twx-widget": "",
+                                            "widget-id": "button-1",
+                                            "widget-name": "button-1",
+                                            "click-expression": "loadDeeplinkedExperience();",
+                                            "text": "ABRIR EXPERIÊNCIA",
+                                            "class": "button-energized"
+                                          },
+                                          "name": "twx-button"
+                                        },
+                                        {
+                                          "attributes": {
+                                            "twx-widget": "",
+                                            "widget-id": "hyperlink-1",
+                                            "widget-name": "hyperlink-1",
+                                            "text": "Hyperlink Text",
+                                            "url": "https://view.vuforia.com/command/view-experience?url=https%3A%2F%2F62805854cb2e0345.studio-trial.vuforia.io%2FExperienceService%2Fcontent%2Fprojects%2Fstudio%2520sample%2520-%2520spatial%2520tracking%2Findex.html%3FexpId%3D1",
+                                            "margin": "5px"
+                                          },
+                                          "name": "twx-hyperlink"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "twx-fragment-parameters"
+    },
+    {
+      "name": "twx-view-data"
+    }
+  ],
+  "name": "twx-view"
+}

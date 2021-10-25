@@ -1,0 +1,337 @@
+/*csslint ignore*/
+
+
+.btn-click:active{
+	transform: translateY(4px); 
+}
+
+
+
+/*.close-button{
+  background: #67b730;
+  color: #fff;
+  border: none;
+  margin: 0;
+  font-size: 12px;
+    padding: 10px 20px !important;
+    line-height: initial;
+    min-height: auto;
+  &:active{
+    background: darken(#67b730, 20%);
+  }
+  &:hover{
+    color: #fff;
+  }
+}*/
+
+
+
+
+.leftBar{
+	width: 170px;
+}
+
+
+
+
+/*
+|---------------------------------------------------
+|					Popup Aviso EPI
+|---------------------------------------------------
+*/
+.popAvisoEPI{
+	//background-color: #EEB211;
+  	border-width:5px;  
+    border-style:solid;
+  	border-color: #00508E;
+  	width: 80%;
+}
+
+.title-aviso{
+	font-size: 290% !important;
+  	color: red;
+  	padding: 12px;
+  	//font-weight: bold !important;
+}
+.adorno{
+
+	font-size: 100% !important;
+  
+}
+
+.mesage-aviso{
+	font-size: 190% !important;
+  	font-weight: bold !important;
+}
+
+.columnImageIcon{
+	flex-direction: row !important;
+  	padding: 5px 0px 0px 80px !important;  	
+  	//align-content: center !important;
+  	display: flex;
+  	justify-content:flex-start !important;
+}
+
+.name-epi{
+	font-size: 18px !important;
+  	padding: 20px 10px 0px 20px !important;
+  	//font-weight: bold !important;
+}
+
+.imageEPI{
+ 	 
+}
+
+.button-aviso{
+	width: 350px;
+  	heigth: 70px;
+  	font-size: 25px;
+  	background: #00508E;
+  	color: white;
+  	margin: 12px 6px;
+  	border-radius: 12px;
+}
+/*
+|---------------------------------------------------
+|					Popup Aviso EPI
+|---------------------------------------------------
+*/
+
+
+
+
+/*
+|---------------------------------------------------
+|					Popup Aviso EPI
+|---------------------------------------------------
+*/
+// Botão de navegação entre Popups
+.button-navegacao {
+	width: 355px;
+  	heigth: 70px;
+  	font-size: 25px;
+  	background: #008F83;
+  	color: white;
+  	margin: 12px 4px;
+  	border-radius: 12px;
+}
+.button-navegacao:active {
+  	background-color: #EEB211 !important;
+  	color: black !important;
+  	transform: translateY(4px);
+}
+.button-navegacao:hover { // Classe feita para resolver o problema dos botões ja iniciarem selecionados; 
+  color: white;
+}
+// Botão de navegação entrer Popups
+
+
+// Botão voltar
+.button-back {
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;  
+  //background-color: rgb(255,255,255);
+}
+.button-back:active {
+  transform: translateY(4px);
+}
+// Botão voltar
+
+.teste{
+	font-size: 15px;  	
+}
+
+// Botão de retorno dos popups
+.rewind:active{		
+	transform: translateY(4px);
+}
+
+// Botão da sequencia do script de apresentação
+.script{
+	background-color: #EEB211 !important;
+  	color: black !important;
+}
+/*
+|---------------------------------------------------
+|					Popup Aviso EPI
+|---------------------------------------------------
+*/
+
+
+
+
+/*
+|---------------------------------------------------
+|			Popup de Instruções
+|---------------------------------------------------
+*/
+.cardInstrucao{
+ 	
+  	border-radius: 20px;
+	
+}
+.cardInstrucaoNoClick{   // Classe aplicada ao Componente <cardInstrucaoNoClick> para que ele sirva como trava no componente <cardInstrucao>.
+
+	opacity : 0 !important;
+  
+}
+.title-Instruction{
+
+	font-weight: bold;
+  	font-size: 15px;
+  	margin: 5px !important;
+  
+}
+.labelCurrentStep{
+
+  	color: red;
+  
+}
+.rowInstruction .simple-label{
+
+	color: red;
+
+}
+/*
+|---------------------------------------------------
+|			Popup de Instruções
+|---------------------------------------------------
+*/
+
+
+
+
+/*
+|---------------------------------------------------
+|			Botões de interação com a expêriencia
+|---------------------------------------------------
+*/
+.buttonIlustr{
+	width: 60px !important;
+	heigth: 60px !important;
+  	padding: 5px !important;
+}
+.play{
+	width: 81px !important;
+	heigth: 81px !important;
+  	padding: 0px 5px !important;
+}
+
+.buttonIlustr:active{
+	transform: translateY(4px);  	
+}
+.pdfText{
+  	font-size: 30px;
+  	color: black;  
+  	margin: 0px 20px 0px 0px;
+}
+.pdfText:active{
+	transform: translateY(4px); 
+}
+/*
+|---------------------------------------------------
+|			Botões de interação com a expêriencia
+|---------------------------------------------------
+*/
+
+
+
+
+/*
+|------------------------------------------------------------
+|	Alert para informar ao usuário sobre o final da inspeção
+|------------------------------------------------------------
+*/
+.popInicioInspecao{
+  	border-style: solid;  	
+  	border-width: 2px;
+  	border-color: rgb(200, 200, 200);
+  	border-radius: 12px;
+}
+
+.labelConfirm{
+	margin: 20px 2px;
+}
+
+.buttonConfirm{
+	width: 200px !important;
+  	margin: 20px 2px 10px 2px!important;
+}
+.buttonConfirm:active {
+  transform: translateY(4px);
+}
+
+.continuar{
+ 	background-color: #bab8b8; 
+  	color: black !important;
+}
+
+.containerButtonConfirm{
+	border-top-style: solid;  	
+  	border-width: 0.5px;
+  	border-color: rgb(214, 214, 214);
+}
+
+.titleParabens{
+	font-weight: bold;
+}
+/*
+|------------------------------------------------------------
+|	Alert para informar ao usuário sobre o final da inspeção
+|------------------------------------------------------------
+*/
+
+
+
+
+// CSS VIEW
+.image-button, .image-button.activated {
+  	//background: rgba(0,0,0,0.0);
+  	border-style: none; 
+  	background-repeat: no-repeat;
+  	background-position: center;
+}
+.image-button.activated {
+	-webkit-filter: opacity(30%);
+}
+.image, .image.activated {
+  	background-image: url(#{$resources}/Uploaded/menu-aberto.png);
+}
+
+
+
+
+/*.popButtonClick{
+ 	//background-color: #EEB211 !important;
+  	opacity : 0.5;
+}
+.popButtonNoClick{
+ 	//background-color: red !important; 
+  	opacity : 0.5;
+}
+.click{
+	opacity : 1 !important;
+}*/
+
+
+
+
+/*
+   Add additional application styles or override styles provided by the selected theme or widgets.
+   You can include SASS syntax, as this file is built to a css file using a SASS processor.
+
+   Available Variables:
+
+   Variable Name      Description
+   ----------------------------------------------------
+   $resources         References the directory where resources reside (images, etc.), this directory may be different
+                      between the design time and the runtime directory structure.
+
+                      Example: background-image: url(#{$resources}/Uploaded/image.png)
+
+   $font-path        References the relative directory where fonts are stored.
+*/
+

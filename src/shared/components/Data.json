@@ -1,0 +1,184 @@
+{
+  "attributes": {
+    "namespace": "app.mdl"
+  },
+  "children": [
+    {
+      "attributes": {
+        "name": "Car1",
+        "twx-entity-type": "Things",
+        "twx-entity-name": "Car1"
+      },
+      "name": "twx-model",
+      "children": [
+        {
+          "attributes": {
+            "name": "GasLevel",
+            "twx-auto-refresh": "true",
+            "twx-model": "app.mdl[\"Car1\"].properties[\"GasLevel\"]"
+          },
+          "name": "twx-model-property"
+        },
+        {
+          "attributes": {
+            "name": "GetPropertyValues",
+            "id": "GetPropertyValues",
+            "auto-refresh": "10",
+            "on-app-load": ""
+          },
+          "name": "twx-model-service"
+        }
+      ]
+    },
+    {
+      "attributes": {
+        "name": "Fan1",
+        "twx-entity-type": "Things",
+        "twx-entity-name": "Fan1"
+      },
+      "name": "twx-model",
+      "children": [
+        {
+          "attributes": {
+            "name": "GetPropertyValues",
+            "id": "GetPropertyValues_2",
+            "auto-refresh": "3",
+            "on-app-load": ""
+          },
+          "name": "twx-model-service"
+        }
+      ]
+    },
+    {
+      "attributes": {
+        "id": "vumark",
+        "isbound": "false",
+        "isdeletable": "false",
+        "name": "ThingMark",
+        "value": ""
+      },
+      "name": "twx-app-param"
+    },
+    {
+      "attributes": {
+        "id": "template",
+        "isbound": "false",
+        "isdeletable": "false",
+        "name": "Thing Template",
+        "value": ""
+      },
+      "name": "twx-app-param"
+    },
+    {
+      "attributes": {
+        "id": "thing",
+        "isbound": "false",
+        "isdeletable": "false",
+        "name": "Thing",
+        "value": ""
+      },
+      "name": "twx-app-param"
+    },
+    {
+      "attributes": {
+        "id": "prmLabelNivel",
+        "isbound": "false",
+        "isdeletable": "true",
+        "name": "prmLabelNivel",
+        "value": "CONJUNTOS"
+      },
+      "name": "twx-app-param"
+    },
+    {
+      "attributes": {
+        "id": "buttonBackHide",
+        "isbound": "false",
+        "isdeletable": "true",
+        "name": "buttonBackHide",
+        "value": ""
+      },
+      "name": "twx-app-param"
+    },
+    {
+      "attributes": {
+        "id": "buttonBackShow",
+        "isbound": "false",
+        "isdeletable": "true",
+        "name": "buttonBackShow",
+        "value": ""
+      },
+      "name": "twx-app-param"
+    },
+    {
+      "attributes": {
+        "id": "idBackPopup",
+        "isbound": "false",
+        "isdeletable": "true",
+        "name": "idBackPopup",
+        "value": ""
+      },
+      "name": "twx-app-param"
+    },
+    {
+      "attributes": {
+        "id": "popAvisoEPIcont",
+        "isbound": "false",
+        "isdeletable": "true",
+        "name": "popAvisoEPIcont",
+        "value": "0"
+      },
+      "name": "twx-app-param"
+    },
+    {
+      "attributes": {
+        "id": "modelSelect",
+        "isbound": "false",
+        "isdeletable": "true",
+        "name": "modelSelect",
+        "value": ""
+      },
+      "name": "twx-app-param"
+    },
+    {
+      "attributes": {
+        "id": "xCoordModel",
+        "isbound": "false",
+        "isdeletable": "true",
+        "name": "xCoordModel",
+        "value": ""
+      },
+      "name": "twx-app-param"
+    },
+    {
+      "attributes": {
+        "id": "zCoordModelItem",
+        "isbound": "false",
+        "isdeletable": "true",
+        "name": "zCoordModelItem",
+        "value": ""
+      },
+      "name": "twx-app-param"
+    },
+    {
+      "attributes": {
+        "id": "contador",
+        "isbound": "false",
+        "isdeletable": "true",
+        "name": "contador",
+        "value": ""
+      },
+      "name": "twx-app-param"
+    },
+    {
+      "attributes": {
+        "id": "spinnerVisivel",
+        "isbound": "false",
+        "isdeletable": "true",
+        "name": "spinnerVisivel",
+        "value": ""
+      },
+      "name": "twx-app-param"
+    }
+  ],
+  "name": "twx-app-mdl"
+}

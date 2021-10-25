@@ -1,0 +1,333 @@
+{
+  "attributes": {
+    "twx-widget": "",
+    "widget-id": "view-1",
+    "widget-name": "view-1",
+    "is-widget-container": "true",
+    "viewtype": "ar"
+  },
+  "children": [
+    {
+      "name": "twx-container-content",
+      "children": [
+        {
+          "attributes": {
+            "twx-widget": "",
+            "widget-id": "3DContainer-1",
+            "widget-name": "3D Container",
+            "is-widget-container": "true"
+          },
+          "name": "twx-dt-view",
+          "children": [
+            {
+              "name": "twx-container-content",
+              "children": [
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "model",
+                    "widget-name": "model",
+                    "is-widget-container": "true",
+                    "src": "Uploaded/worldcar-suspension_High.pvz",
+                    "scale": "0.3000",
+                    "x": "0.0000",
+                    "y": "0.0000",
+                    "z": "-0.1317",
+                    "rx": "0.00",
+                    "ry": "0.00",
+                    "rz": "0.00"
+                  },
+                  "name": "twx-dt-model",
+                  "children": [
+                    {
+                      "attributes": {
+                        "databind-id": "db-1631538464302",
+                        "source-type": "data",
+                        "source-name": "xCoordModel",
+                        "source-item-type": "value",
+                        "source-item-name": "xCoordModel",
+                        "binding-type": "custom_field",
+                        "from-expression": "app.params['xCoordModel']",
+                        "to-property": "x"
+                      },
+                      "name": "twx-databind"
+                    },
+                    {
+                      "name": "twx-container-content",
+                      "children": [
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "modelItem-1",
+                            "widget-name": "modelItem-1",
+                            "is-widget-container": "true",
+                            "model": "model",
+                            "idpath": "/119/31",
+                            "scale": "1.0000",
+                            "x": "-0.0132",
+                            "y": "0.1575",
+                            "z": "-0.1421",
+                            "rx": "0.00",
+                            "ry": "0.00",
+                            "rz": "0.00"
+                          },
+                          "name": "twx-dt-modelitem",
+                          "children": [
+                            {
+                              "attributes": {
+                                "databind-id": "db-1631538483769",
+                                "source-type": "data",
+                                "source-name": "zCoordModelItem",
+                                "source-item-type": "value",
+                                "source-item-name": "zCoordModelItem",
+                                "binding-type": "custom_field",
+                                "from-expression": "app.params['zCoordModelItem']",
+                                "to-property": "z"
+                              },
+                              "name": "twx-databind"
+                            },
+                            {
+                              "name": "twx-container-content"
+                            }
+                          ]
+                        },
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "modelItem-2",
+                            "widget-name": "modelItem-2",
+                            "is-widget-container": "true",
+                            "model": "model",
+                            "idpath": "/119/33",
+                            "scale": "1.0000",
+                            "x": "-0.0132",
+                            "y": "0.1575",
+                            "z": "-0.1421",
+                            "rx": "0.00",
+                            "ry": "0.00",
+                            "rz": "0.00"
+                          },
+                          "name": "twx-dt-modelitem",
+                          "children": [
+                            {
+                              "attributes": {
+                                "databind-id": "db-1631538488834",
+                                "source-type": "data",
+                                "source-name": "zCoordModelItem",
+                                "source-item-type": "value",
+                                "source-item-name": "zCoordModelItem",
+                                "binding-type": "custom_field",
+                                "from-expression": "app.params['zCoordModelItem']",
+                                "to-property": "z"
+                              },
+                              "name": "twx-databind"
+                            },
+                            {
+                              "name": "twx-container-content"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "thingMark-1",
+                    "marker-id": "33724:1",
+                    "tracking-indicator": "true",
+                    "widget-name": "thingMark-1",
+                    "width": "0.0254",
+                    "y": "0.0000",
+                    "z": "0.0752",
+                    "rx": "-90.00",
+                    "ry": "0.00",
+                    "rz": "-0.00"
+                  },
+                  "name": "twx-dt-target",
+                  "children": [
+                    {
+                      "attributes": {
+                        "databind-id": "db-1631537647914",
+                        "source-type": "data",
+                        "source-name": "vumark",
+                        "source-item-type": "value",
+                        "source-item-name": "vumark",
+                        "binding-type": "custom_field",
+                        "from-expression": "app.params['vumark']",
+                        "to-property": "markerId"
+                      },
+                      "name": "twx-databind"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "attributes": {
+            "twx-widget": "",
+            "widget-id": "2DOverlay-1",
+            "widget-name": "2D Overlay",
+            "is-widget-container": "true"
+          },
+          "name": "twx-overlay",
+          "children": [
+            {
+              "name": "twx-container-content",
+              "children": [
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "panel-1",
+                    "widget-name": "Top Panel",
+                    "is-widget-container": "true",
+                    "position": "top"
+                  },
+                  "name": "twx-overlay-container",
+                  "children": [
+                    {
+                      "name": "twx-container-content"
+                    }
+                  ]
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "2DOverlayBody-1",
+                    "widget-name": "2D Body",
+                    "is-widget-container": "true"
+                  },
+                  "name": "twx-overlay-body",
+                  "children": [
+                    {
+                      "name": "twx-container-content",
+                      "children": [
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "panel-2",
+                            "widget-name": "Left Panel",
+                            "is-widget-container": "true",
+                            "position": "left"
+                          },
+                          "name": "twx-overlay-container",
+                          "children": [
+                            {
+                              "name": "twx-container-content"
+                            }
+                          ]
+                        },
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "panel-3",
+                            "widget-name": "Center Panel",
+                            "is-widget-container": "true",
+                            "position": "center"
+                          },
+                          "name": "twx-overlay-container",
+                          "children": [
+                            {
+                              "name": "twx-container-content"
+                            }
+                          ]
+                        },
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "panel-4",
+                            "widget-name": "Right Panel",
+                            "is-widget-container": "true",
+                            "position": "right"
+                          },
+                          "name": "twx-overlay-container",
+                          "children": [
+                            {
+                              "name": "twx-container-content",
+                              "children": [
+                                {
+                                  "attributes": {
+                                    "twx-widget": "",
+                                    "widget-id": "button-1",
+                                    "widget-name": "button-1",
+                                    "click-expression": "moveModel();",
+                                    "text": "mover modelo",
+                                    "class": "button-balanced"
+                                  },
+                                  "name": "twx-button"
+                                },
+                                {
+                                  "attributes": {
+                                    "twx-widget": "",
+                                    "widget-id": "button-2",
+                                    "widget-name": "button-2",
+                                    "click-expression": "moveModelItem();",
+                                    "text": "mover item do modelo",
+                                    "class": "button-energized"
+                                  },
+                                  "name": "twx-button"
+                                },
+                                {
+                                  "attributes": {
+                                    "twx-widget": "",
+                                    "widget-id": "button-3",
+                                    "widget-name": "button-3",
+                                    "click-expression": "reset();",
+                                    "text": "redefinir",
+                                    "class": "button-assertive"
+                                  },
+                                  "name": "twx-button"
+                                },
+                                {
+                                  "attributes": {
+                                    "twx-widget": "",
+                                    "widget-id": "button-4",
+                                    "widget-name": "button-4",
+                                    "click-expression": "view();",
+                                    "text": "view",
+                                    "class": "button-dark",
+                                    "visible": "false"
+                                  },
+                                  "name": "twx-button"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "panel-5",
+                    "widget-name": "Bottom Panel",
+                    "is-widget-container": "true",
+                    "position": "bottom"
+                  },
+                  "name": "twx-overlay-container",
+                  "children": [
+                    {
+                      "name": "twx-container-content"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "twx-fragment-parameters"
+    },
+    {
+      "name": "twx-view-data"
+    }
+  ],
+  "name": "twx-view"
+}
